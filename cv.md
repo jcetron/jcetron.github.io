@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Joshua Satya Cetron
 permalink: /cv/
 ---
-# Joshua Satya Cetron | _Curriculum Vitae_
+# _Curriculum Vitae_
 
 [jcetron@fas.harvard.edu](mailto:jcetron@fas.harvard.edu) • (404) 775-9793  
 1410 William James Hall, 33 Kirkland St., Cambridge, MA 02138
