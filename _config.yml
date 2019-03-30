@@ -9,7 +9,7 @@ name: Joshua S. Cetron
 description: Personal website for Joshua Cetron.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/josh.jpg
+avatar: https://raw.githubusercontent.com/jcetron/jcetron.github.io/master/images/josh.jpg
 
 #
 # Flags below are optional
