@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Joshua Satya Cetron
 permalink: /cv/
 ---
-# _Curriculum Vitae_
-
+# Joshua Satya Cetron | _Curriculum Vitae_  
+[PDF Version]({{ jcetron.github.io }}{% link cv.pdf %})
 [jcetron@fas.harvard.edu](mailto:jcetron@fas.harvard.edu) • (404) 775-9793  
 1410 William James Hall, 33 Kirkland St., Cambridge, MA 02138
 
-_**Research interests:** computational and multivariate analysis of cognitive neuroimaging data (e.g., RSA, MVPA), neural basis of cognition and learning, applying neuroscience and psychology research to improve social, educational, and public health outcomes._
+_**Research interests:** computational and multivariate analysis of cognitive neuroimaging data (e.g., RSA, MVPA), neural basis of cognition and learning, applying neuroscience and psychology research to improve social, educational, and public health outcomes._  
 
 ## Education
 **_Harvard University_**, Cambridge, MA  
