@@ -3,7 +3,11 @@ layout: page
 permalink: /cv/
 ---
 # Joshua Satya Cetron | _Curriculum Vitae_  
-[PDF Version]({{ jcetron.github.io }}{% link cv.pdf %})
+
+<div>
+<a href="_data/cv.pdf">PDF version</a>
+</div>
+
 [jcetron@fas.harvard.edu](mailto:jcetron@fas.harvard.edu) • (404) 775-9793  
 1410 William James Hall, 33 Kirkland St., Cambridge, MA 02138
 
