@@ -11,23 +11,17 @@ permalink: /cv/
 _**Research interests:** computational and multivariate analysis of cognitive neuroimaging data (e.g., RSA, MVPA), neural basis of cognition and learning, applying neuroscience and psychology research to improve social, educational, and public health outcomes._  
 
 ## Education
-**_Harvard University_**, Cambridge, MA  
-_September 2018 - Present_  
+**_Harvard University_**, Cambridge, MA, _September 2018 - Present_  
 Doctoral Student, Department of Psychology  
 Advisor: Mina Cikara, Ph.D.  
 
+**_Dartmouth College_**, Hanover, NH, _September 2012 - June 2016_  
+B.A., Neuroscience, High Honors, Minors in Education and Spanish  
+_Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 
-**_Dartmouth College_**, Hanover, NH  
-_September 2012 - June 2016_  
-B.A., Neuroscience, High Honors, _summa cum laude_  
-GPA: 3.92, Phi Beta Kappa  
-Minors in Education and Spanish
-
-## Peer-Reviewed Publications
+## Publications and Submitted Manuscripts
 
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019, accepted pending minor revisions). A neural score for engineering concepts: predicting STEM learning with multivariate pattern analysis of functional neuroimaging data. _Nature Communications_. Preprint available at [https://psyarxiv.com/6ac7f/](https://psyarxiv.com/6ac7f/). Preprint DOI: 10.31234/osf.io/6ac7f.
-
-## Submitted Manuscripts
 
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019). Using the force: prior knowledge and experience shape neural representations of engineering concepts. _Submitted_. Preprint available at [https://psyarxiv.com/ue5fa](psyarxiv.com/ue5fa). Preprint DOI: 10.17605/OSF.IO/UE5FA.
 
@@ -78,11 +72,7 @@ Selected by the Harvard Graduate School of Arts and Sciences to receive the Pres
 
 **High Honors Award, Neuroscience Honors Thesis**  
 _Dartmouth College, Hanover, NH, June 2016_  
-Senior Neuroscience Honors Thesis awarded High Honors by the Department of Psychological and Brain Sciences.
-
-**Department Nominee, Gazzaniga Family Science Award**  
-_Dartmouth College, Hanover, NH, June 2016_  
-Department of Psychological and Brain Sciences exclusive nominee for the college-wide Gazzaniga Family Science Award for the most outstanding senior honors thesis student in the sciences.
+Senior Undergraduate Neuroscience Honors Thesis awarded High Honors by the Department of Psychological and Brain Sciences.
 
 **Citations for Meritorious Performance**  
 _Dartmouth College, Hanover, NH, 2014 - 2016_  
@@ -128,52 +118,29 @@ _Musical Training:_ 15+ years of musical instrument, independent songwriting, an
 _Harvard University, Cambridge, MA, September 2018 - Present_  
 Advisor: Mina Cikara, Ph.D.
 
-- Doctoral student in the Department of Psychology conducting original behavioral and neuroimaging research in cognitive neuroscience with applications in social, educational, and public health domains.
-
-**Lab Manager and Research Assistant, Cognitive Neuroscience of Learning Lab**  
+**Post-Baccalaureate Researcher and Lab Manager, Cognitive Neuroscience of Learning Lab**  
 _Dartmouth College, Hanover, NH, September 2016 - September 2018_  
 Advisor: David J. M. Kraemer, Ph.D.
-
-- Full-time research assistant. Conducted original research, oversaw and executed multiple task-based and fMRI research projects, and presented research at national and international conferences.
-
-- Lab manager responsibilities included coordinating and managing lab logistics (e.g., participant scheduling, equipment reservations, website maintenance) and activities (e.g., writing workshops).
 
 **Undergraduate Research Assistant, Cognitive Neuroscience of Learning Lab**  
 _Dartmouth College, Hanover, NH, July 2013 - June 2016_  
 Advisor: David J. M. Kraemer, Ph.D.
 
-- Conceived, created, conducted, and analyzed behavioral and fMRI studies over three years of part- and full-time research, as a recipient of Dartmouth-sponsored research grants and as a Neuroscience Honors Thesis student.
-
-- Neuroscience Senior Honors Thesis Student (2015-2016). Investigated the neural representations of physics concepts and the role of prior
-knowledge and experience in those representations. Awarded High Honors.
-
-- Research presented at the 2016 Cognitive Neuroscience Society Annual Meeting in New York City and at the 2016 International Meeting of the Psychonomics Society in Granada, Spain.
-
-**Laboratory and Research Assistant, Emory University Transplant Centers**  
-_Emory University, Atlanta, GA, Summers 2010, 2011, 2012_  
+**Laboratory Intern and Research Assistant, Emory University Transplant Centers**  
+_Emory University and Yerkes International Primate Research Center, Atlanta, GA, Summers 2010 - 2012_  
 Advisor: Leslie Kean, M.D./Ph.D.
-
-- Assisted with laboratory logistics for an immunology research lab studying Graft Versus Host Disease in bone marrow transplant patients.
-
-- Maintained serum sample databases, computed basic statistical analyses, managed the safe transportation of sensitive biomaterials to and from the Yerkes International Primate Research Center.
 
 ## Additional Work & Leadership Experience
 **Director, Dartmouth Outing Club (DOC) First-Year Trips Program**  
 _Hanover, NH, November 2015 - November 2016_  
 
-- Directed the 2016 First-Year Trips program for the Dartmouth Outing Club, the largest College outdoor orientation program in the country. The DOC First-Year Trips program is an annual, entirely student-run program that takes approximately 1000 incoming students each year on five-day outdoor trips as an introduction to college.
-
-- As Director, I was responsible for building, implementing, and overseeing every aspect of the 2016 program over a one-year period.
-Interviewed and hired a 20-person Directorate staff, selected a volunteer staff of 350+ students from an applicant pool of 600+, and assigned appx. 1000 first-year students to 139 different 5-day trips across 10 sections.
-
-- Managed 56 support crew members across 6 separate teams as well as 278 trip leaders (all student volunteers) over the 3-week duration of the program while trips took place across central and northern New Hampshire, including in the White Mountains and along sections of the Appalachian Trail.
+- Directed the 2016 First-Year Trips program for the Dartmouth Outing Club, the largest College outdoor orientation program in the country, designing and overseeing 139 different five-day, student-led trips for approximately 1000 incoming students, which took place across New Hampshire (including in the White Mountains and along sections of the Appalachian Trail).  
+- Interviewed and hired a 20-person Directorate; selected and managed a student volunteer staff of 350+ (278 trip leaders, 56 support crew members on 6 separate teams) from an applicant pool of 600+.
 
 **Program Facilitator, Pearson Seminar on Youth Leadership**  
-_Victoria, B.C., Canada, Summers 2010, 2011_  
+_Lester B. Pearson United World College of the Pacific, Victoria, B.C., Canada, Summers 2010 - 2011_  
 
-- Collaborated with a team of 16 facilitators and 8 program coordinators to design and implement a month-long summer leadership program at the Lester B. Pearson United World College.
-
-- Critically engaged 100 high school student participants from 20+ different countries on topics in social justice, global citizenship, environmental sustainability, and community-building.
+- Collaborated with a team of 16 facilitators and 8 program coordinators to design and implement a month-long summer leadership program for 100 high school student participants from 20+ different countries. Topics included social justice, global citizenship, environmental sustainability, and community-building.
 
 ## References
 **Mina Cikara, Ph.D.**  
