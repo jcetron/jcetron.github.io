@@ -25,7 +25,7 @@ Minors in Education and Spanish
 
 ## Peer-Reviewed Publications
 
-**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019). A neural score for engineering concepts: predicting STEM learning with multivariate pattern analysis of functional neuroimaging data. _Accepted pending minor revisions_. Preprint available at [https://psyarxiv.com/6ac7f/](https://psyarxiv.com/6ac7f/). Preprint DOI: 10.31234/osf.io/6ac7f.
+**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019, accepted pending minor revisions). A neural score for engineering concepts: predicting STEM learning with multivariate pattern analysis of functional neuroimaging data. _Nature Communications_. Preprint available at [https://psyarxiv.com/6ac7f/](https://psyarxiv.com/6ac7f/). Preprint DOI: 10.31234/osf.io/6ac7f.
 
 ## Submitted Manuscripts
 
