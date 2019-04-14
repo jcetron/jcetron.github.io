@@ -93,8 +93,8 @@ Undergraduate research assistantship for two academic terms with a faculty mento
 
 ## Skills
 **Computational Skills**  
-_Programming Languages:_ R, Python (including SciPy and NumPy), Unix (bash), slurm cluster computing, some JavaScript (jspsych).  
-_Computational Tools & Software:_ RStudio, iPython, Jupyter, PsychoPy, Git, Atom, slurm, Qualtrics, jspsych.
+_Programming Languages:_ R, Python (including SciPy and NumPy), Unix (bash), Slurm cluster computing, some JavaScript (jsPsych).  
+_Computational Tools & Software:_ RStudio, iPython, Jupyter, PsychoPy, Git, Atom, Slurm, Qualtrics, jsPsych.
 
 **Statistical Skills**  
 _Analyses:_ standard and generalized linear fixed-effects, mixed-effects, and additive modeling, multivariate cluster analysis (standard and bootstrapped hierarchical clustering, density-based clustering), dimensionality reduction (multidimensional scaling, principal components analysis), support vector machine classification.
