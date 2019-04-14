@@ -35,11 +35,11 @@ Alfred, K. L., Hayes, J. H., **Cetron, J. S.**, Pizzie, R. G., Kraemer, D. J. M.
 
 ## Current projects
 
-Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, Kraemer, D. J. M. (2019). Does the brain have a domain-general mechanism for representing mental models? _Manuscript in preparation_. 
+**Cetron, J. S.** & Cikara, M. (2019). Understanding how opinions become represented as facts (and how to intervene). _In progress_.
+
+Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, Kraemer, D. J. M. (2019). Does the brain have a domain-general mechanism for representing mental models? _Manuscript in preparation_.
 
 Hayes, J. C., Alfred, K. L., **Cetron, J. S.**, Pizzie, R. G., Kraemer, D. J. M. (2019). Individual differences in information processing predict distinct structural connectivity patterns. _Manuscript in preparation_.
-
-**Cetron, J. S.** & Cikara, M. (2019). Quantum cognition: understanding how opinions become represented as facts (and how to intervene). _In progress_.
 
 **Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods. _In progress_.
 
@@ -68,6 +68,10 @@ Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, Kraemer, D. J. M. (2017, Marc
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Kraemer, D. J. M. (2016, April). The role of motor regions in representing engineering concepts. Poster presented at the annual meeting of the Cognitive Neuroscience Society, New York, NY.
 
 ## Selected Honors, Awards, & Research Funding
+**National Science Foundation Graduate Research Fellow**  
+_National Science Foundation, 2019 - Present_  
+2019 recipient of the NSF Graduate Research Fellowship award for research program in progress under the title: Understanding how opinions become represented as facts (and how to intervene).
+
 **Presidential Scholar, Graduate School of Arts and Sciences**  
 _Harvard University, Cambridge, MA, September 2018 - Present_  
 Selected by the Harvard Graduate School of Arts and Sciences to receive the Presidential Scholarship Award in special recognition of a commitment to public service and intellectual excellence. Nominated by the Harvard Department of Psychology.
@@ -99,6 +103,25 @@ Annual award recognizing students in the top 5% of their class each academic yea
 **Sophomore Science Scholar**
 _Dartmouth College, Hanover, NH, September 2013 - March 2014_  
 Undergraduate research assistantship for two academic terms with a faculty mentor. Awarded to second-year student applicants conducting research in the sciences.
+
+## Skills & Abilities
+**Computational Skills**  
+_Programming Languages:_ R, Python (including SciPy and NumPy), Unix (bash), slurm cluster computing, some JavaScript (jspsych).  
+_Computational Tools & Software:_ RStudio, iPython, Jupyter, PsychoPy, Git, Atom, slurm, Qualtrics, jspsych.
+
+**Statistical Skills**
+_Analyses:_ standard and generalized linear fixed-effects, mixed-effects, and additive modeling, multivariate cluster analysis (standard and bootstrapped hierarchical clustering, density-based clustering), dimensionality reduction (multidimensional scaling, principal components analysis), support vector machine classification.
+
+**Neuroimaging Skills**  
+_Functional MRI Scanning:_ Scanner operation and safety training (Philips 3.0 T Achieva Intera, Siemens PRISMA 3T).  
+_Neuroimaging Analysis Tools:_ AFNI (AFNI bootcamp certified), SUMA, FSL, FreeSurfer, PyMVPA.  
+_Neuroimaging Analysis Procedures:_ General linear modeling (subject- and group-level), whole-brain searchlight multivariate pattern analysis (MVPA), representational similarity analysis (RSA).
+
+**Other Skills**  
+_Media Processing:_ Audio editing, recording, and mastering (Logic Pro X), image manipulation (GIMP), video editing (DaVinci Resolve, Final Cut Express).  
+_Engineering:_ Electronics soldering, basic circuit wiring, basic woodworking, amateur luthier.  
+_Language Skills:_ Fluent in Spanish.  
+_Musical Training:_ 15+ years of musical instrument, independent songwriting, and performance experience.
 
 ## Research Positions
 **Doctoral Student, Harvard Intergroup Neuroscience Lab**  
@@ -134,22 +157,6 @@ Advisor: Leslie Kean, M.D./Ph.D.
 
 - Maintained serum sample databases, computed basic statistical analyses, managed the safe transportation of sensitive biomaterials to and from the Yerkes International Primate Research Center.
 
-## Skills & Abilities
-**Computational Skills**  
-_Programming Languages:_ Analysis and scripting experience with R, Python (including the SciPy and NumPy tools), and Unix/Bash.  
-_Computational Tools & Software:_ GitHub, iPython, Jupyter Notebook, PsychoPy, RStudio.
-
-**Neuroimaging Skills**  
-_Functional MRI Scanning:_ Scanner operation and safety training (Philips 3.0 T Achieva Intera, Siemens PRISMA 3T).  
-_Neuroimaging Analysis Tools:_ AFNI (AFNI bootcamp certified), SUMA, FSL, FreeSurfer, PyMVPA.  
-_Neuroimaging Analysis Procedures:_ General linear modeling (subject- and group-level), MVPA searchlight analysis, support vector machine classification analysis, dimensionality reduction (multidimensional scaling, principal components analysis), mixed-effects modeling.
-
-**Other Skills**  
-_Media Processing:_ Audio editing, recording, and mastering (Logic Pro X, GarageBand), image manipulation (GIMP), video editing (DaVinci Resolve, Final Cut Express, iMovie).  
-_Engineering:_ Electronics soldering, basic circuit wiring, basic woodworking, amateur luthier.  
-_Language Skills:_ Fluent in Spanish.  
-_Musical Training:_ 15+ years of musical instrument, independent songwriting, and performance experience.
-
 ## Additional Work & Leadership Experience
 **Director, Dartmouth Outing Club (DOC) First-Year Trips Program**  
 _Hanover, NH, November 2015 - November 2016_  
@@ -173,7 +180,7 @@ _Victoria, B.C., Canada, Summers 2010, 2011_
 Assistant Professor, Department of Psychology  
 Harvard University, Cambridge, MA  
 (617) 495-3819, [mcikara@fas.harvard.edu](mailto:mcikara@fas.harvard.edu)
-  
+
 **David J. M. Kraemer, Ph.D.**  
 Assistant Professor, Department of Education  
 Advisor, Department of Psychological and Brain Sciences, Graduate Program  
