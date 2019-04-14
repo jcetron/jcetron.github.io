@@ -20,7 +20,6 @@ B.A., Neuroscience, High Honors, Minors in Education and Spanish
 _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 
 ## Publications and Submitted Manuscripts
-
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019, accepted pending minor revisions). A neural score for engineering concepts: predicting STEM learning with multivariate pattern analysis of functional neuroimaging data. _Nature Communications_. Preprint available at [https://psyarxiv.com/6ac7f/](https://psyarxiv.com/6ac7f/). Preprint DOI: 10.31234/osf.io/6ac7f.
 
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019). Using the force: prior knowledge and experience shape neural representations of engineering concepts. _Submitted_. Preprint available at [https://psyarxiv.com/ue5fa](psyarxiv.com/ue5fa). Preprint DOI: 10.17605/OSF.IO/UE5FA.
@@ -28,7 +27,6 @@ _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 Alfred, K. L., Hayes, J. H., **Cetron, J. S.**, Pizzie, R. G., Kraemer, D. J. M. (2019). Individual differences in encoded neural representations within cortical speech production network. _Submitted_. Preprint available at [https://psyarxiv.com/8wcpv/](https://psyarxiv.com/8wcpv/). Preprint DOI: 10.31234/osf.io/8wcpv.
 
 ## Current projects
-
 **Cetron, J. S.** & Cikara, M. (2019). Understanding how opinions become represented as facts (and how to intervene). _In progress_.
 
 Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, Kraemer, D. J. M. (2019). Does the brain have a domain-general mechanism for representing mental models? _Manuscript in preparation_.
@@ -42,7 +40,6 @@ Peterson, E. M., Kolvoord, R. A., Kraemer, D. J. M., Weinberger, A. B., Uttal, D
 Nastase, S. A., Hayes, J. H., **Cetron, J. S.**, Green, A. E., Cross, E. S., Haxby, J. V., Kraemer, D. J. M. (2017). Decoding perceptual retrieval: the influence of retrieval modality and task difficulty. _Manuscript in preparation_.
 
 ## Other Publications
-
 **Cetron, J. S.**, & Dartmouth College. (2016). _The role of motor regions in representing engineering concepts_. (Senior Honors Thesis). Retrieved from Dartmouth College Library. (Control No. ocn953695823).
 
 Kean, L., Sen, S., Felder, M. A., Tangpricha, V., Adisa, O., JAMES-Herry, A., Buchanan, I., Ziegler, T., Alvarez, J., Beus, J., Worthington-White, D., Robertson, J., George, J., **Cetron, J.**, Ofori-Acquah, S. F., & Osunkwo, I. (2011). Evidence for Quantitative and Functional Immune Deviation in Pediatric Patients with Sickle Cell
@@ -82,24 +79,24 @@ On four unique occasions, received formal personal commendations from faculty fo
 _Dartmouth College, Hanover, NH, January 2015 - June 2015_  
 Funded undergraduate research assistantship for two academic terms of research with a faculty mentor. Awarded to third-year student applicants in the top 40% of their class.
 
-**Kaminsky Family Fund Award Grant Researcher**
-_Dartmouth College, Hanover, NH, Fall 2014, Summery 2015_  
+**Kaminsky Family Fund Award Grant Researcher**  
+_Dartmouth College, Hanover, NH, Fall 2014, Summer 2015_  
 Dartmouth College Dean of the Faculty Undergraduate Research Grant recipient, sponsored for two separate academic terms.
 
-**Rufus Choate Scholar**
+**Rufus Choate Scholar**  
 _Dartmouth College, Hanover, NH, 2012 - 2013, 2013 - 2014_  
 Annual award recognizing students in the top 5% of their class each academic year.
 
-**Sophomore Science Scholar**
+**Sophomore Science Scholar**  
 _Dartmouth College, Hanover, NH, September 2013 - March 2014_  
 Undergraduate research assistantship for two academic terms with a faculty mentor. Awarded to second-year student applicants conducting research in the sciences.
 
-## Skills & Abilities
+## Skills
 **Computational Skills**  
 _Programming Languages:_ R, Python (including SciPy and NumPy), Unix (bash), slurm cluster computing, some JavaScript (jspsych).  
 _Computational Tools & Software:_ RStudio, iPython, Jupyter, PsychoPy, Git, Atom, slurm, Qualtrics, jspsych.
 
-**Statistical Skills**
+**Statistical Skills**  
 _Analyses:_ standard and generalized linear fixed-effects, mixed-effects, and additive modeling, multivariate cluster analysis (standard and bootstrapped hierarchical clustering, density-based clustering), dimensionality reduction (multidimensional scaling, principal components analysis), support vector machine classification.
 
 **Neuroimaging Skills**  
@@ -113,7 +110,7 @@ _Engineering:_ Electronics soldering, basic circuit wiring, basic woodworking, a
 _Language Skills:_ Fluent in Spanish.  
 _Musical Training:_ 15+ years of musical instrument, independent songwriting, and performance experience.
 
-## Research Positions
+## Research Experience
 **Doctoral Student, Harvard Intergroup Neuroscience Lab**  
 _Harvard University, Cambridge, MA, September 2018 - Present_  
 Advisor: Mina Cikara, Ph.D.
