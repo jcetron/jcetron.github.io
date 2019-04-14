@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 ---
-<div><a href="https://github.com/jcetron/jcetron.github.io/raw/master/_data/cv.pdf">Download PDF</a></div>
+<div><a href="https://github.com/jcetron/jcetron.github.io/raw/master/_data/joshua_cetron_CV.pdf">Download PDF</a></div>
 
 # Joshua Satya Cetron | _Curriculum Vitae_  
 [jcetron@fas.harvard.edu](mailto:jcetron@fas.harvard.edu) • (404) 775-9793  
