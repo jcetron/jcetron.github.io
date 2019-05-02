@@ -20,7 +20,7 @@ B.A., Neuroscience, High Honors, Minors in Education and Spanish
 _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 
 ## Publications and Submitted Manuscripts
-**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019). Decoding individual differences in STEM learning from functional MRI data. _Nature Communications_, 10(1), 2027. [https://doi.org/10.1038/s41467-019-10053-y](https://doi.org/10.1038/s41467-019-10053-y) [PDF](https://rdcu.be/bzTJF)
+**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019). Decoding individual differences in STEM learning from functional MRI data. _Nature Communications_, 10(1), 2027. [https://doi.org/10.1038/s41467-019-10053-y](https://doi.org/10.1038/s41467-019-10053-y)
 
 Cetron, J. S., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2019). Decoding individual differences in STEM learning from functional MRI data. Nature Communications, 
 
