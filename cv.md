@@ -26,7 +26,7 @@ _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 
 Alfred, K. L., Hayes, J. H., Pizzie, R. G., **Cetron, J. S.**, Kraemer, D. J. M. (2019). Individual differences in encoded neural representations within cortical speech production network. _Submitted_. Preprint available at [https://psyarxiv.com/8wcpv/](https://psyarxiv.com/8wcpv/). Preprint DOI: 10.31234/osf.io/8wcpv.
 
-Hayes, J. C., Alfred, K. L., Pizzie, R. G., **Cetron, J. S.**, Kraemer, D. J. M. (2019). Individual differences in white and grey matter structure associated with verbal habits of thought. _Submitted_.
+Hayes, J. C., Alfred, K. L., Pizzie, R. G., **Cetron, J. S.**, Kraemer, D. J. M. (2019). Individual differences in white and grey matter structure associated with verbal habits of thought. _Submitted_. Preprint available at [https://psyarxiv.com/ukgyr/](https://psyarxiv.com/ukgyr/). Preprint DOI: 10.31234/osf.io/ukgyr.
 
 ## Current projects
 **Cetron, J. S.** & Cikara, M. (2019). Understanding how opinions become represented as knowledge (and how to intervene). _In progress_.
