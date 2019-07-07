@@ -45,6 +45,46 @@ Nastase, S. A., Hayes, J. H., **Cetron, J. S.**, Green, A. E., Cross, E. S., Hax
 Kean, L., Sen, S., Felder, M. A., Tangpricha, V., Adisa, O., JAMES-Herry, A., Buchanan, I., Ziegler, T., Alvarez, J., Beus, J., Worthington-White, D., Robertson, J., George, J., **Cetron, J.**, Ofori-Acquah, S. F., & Osunkwo, I. (2011). Evidence for Quantitative and Functional Immune Deviation in Pediatric Patients with Sickle Cell
 Disease. _Blood_, 118(21), 1054. Retrieved from [http://www.bloodjournal.org/content/118/21/1054](http://www.bloodjournal.org/content/118/21/1054).
 
+## Selected Honors, Awards, Fellowships, & Research Funding
+**Fellow, Kavli Summer Institute in Cognitive Neuroscience**  
+_University of California, Santa Barbara, Summer 2019_  
+Fellow at the 2019 Kavli Summer Institute in Cognitive Neuroscience (SICN).
+
+**National Science Foundation Graduate Research Fellow**  
+_National Science Foundation, 2019 - Present_  
+Award recipient for the NSF Graduate Research Fellowship Program (GRFP) beginning 2019.
+
+**Associate Member, Simga Xi Scientific Research Honor Society**  
+_Sigma Xi, 2019 - Present_  
+
+**Presidential Scholar, Graduate School of Arts and Sciences**  
+_Harvard University, Cambridge, MA, September 2018 - Present_  
+Selected by the Harvard Graduate School of Arts and Sciences to receive the Presidential Scholarship Award in special recognition of a commitment to public service and intellectual excellence. Nominated by the Harvard Department of Psychology.
+
+**High Honors Award, Neuroscience Honors Thesis**  
+_Dartmouth College, Hanover, NH, June 2016_  
+Undergraduate Neuroscience Honors Thesis awarded High Honors by the Department of Psychological and Brain Sciences.
+
+**Citations for Meritorious Performance**  
+_Dartmouth College, Hanover, NH, 2014 - 2016_  
+On four unique occasions, received formal personal commendations from faculty for exceptional contributions to an academic course, each in a distinct department. Faculty remarks are recorded on students’ official undergraduate transcripts.
+
+**James O. Freeman Presidential Scholar**  
+_Dartmouth College, Hanover, NH, January 2015 - June 2015_  
+Funded third-year undergraduate research assistantship for two academic terms.
+
+**Kaminsky Family Fund Award Grant Researcher**  
+_Dartmouth College, Hanover, NH, Fall 2014, Summer 2015_  
+Dartmouth College Dean of the Faculty Undergraduate Research Grant recipient for two separate academic terms of full-time research work.
+
+**Rufus Choate Scholar**  
+_Dartmouth College, Hanover, NH, 2012 - 2013, 2013 - 2014_  
+Annual award recognizing students in the top 5% of their class each academic year.
+
+**Sophomore Science Scholar**  
+_Dartmouth College, Hanover, NH, September 2013 - March 2014_  
+Funded second-year undergraduate research assistantship for two academic terms.
+
 ## Conference Presentations
 **Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019, March). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods. Poster presented at the 2019 annual meeting of the Cognitive Neuroscience Society, San Francisco, CA.
 
@@ -57,39 +97,6 @@ Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, Kraemer, D. J. M. (2017, Marc
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Kraemer, D. J. M. (2016, May). The role of motor regions in representing engineering concepts. Poster presented at the inaugural meeting of the Psychonomics Society International, Granada, Spain.
 
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Kraemer, D. J. M. (2016, April). The role of motor regions in representing engineering concepts. Poster presented at the annual meeting of the Cognitive Neuroscience Society, New York, NY.
-
-## Selected Honors, Awards, & Research Funding
-**National Science Foundation Graduate Research Fellow**  
-_National Science Foundation, 2019 - Present_  
-2019 recipient of the NSF Graduate Research Fellowship award for research program in progress under the title: Understanding how opinions become represented as facts (and how to intervene).
-
-**Presidential Scholar, Graduate School of Arts and Sciences**  
-_Harvard University, Cambridge, MA, September 2018 - Present_  
-Selected by the Harvard Graduate School of Arts and Sciences to receive the Presidential Scholarship Award in special recognition of a commitment to public service and intellectual excellence. Nominated by the Harvard Department of Psychology.
-
-**High Honors Award, Neuroscience Honors Thesis**  
-_Dartmouth College, Hanover, NH, June 2016_  
-Senior Undergraduate Neuroscience Honors Thesis awarded High Honors by the Department of Psychological and Brain Sciences.
-
-**Citations for Meritorious Performance**  
-_Dartmouth College, Hanover, NH, 2014 - 2016_  
-On four unique occasions, received formal personal commendations from faculty for exceptional contributions to an academic course, each in a distinct department. Faculty remarks are recorded on students’ official undergraduate transcripts.
-
-**James O. Freeman Presidential Scholar**  
-_Dartmouth College, Hanover, NH, January 2015 - June 2015_  
-Funded undergraduate research assistantship for two academic terms of research with a faculty mentor. Awarded to third-year student applicants in the top 40% of their class.
-
-**Kaminsky Family Fund Award Grant Researcher**  
-_Dartmouth College, Hanover, NH, Fall 2014, Summer 2015_  
-Dartmouth College Dean of the Faculty Undergraduate Research Grant recipient, sponsored for two separate academic terms.
-
-**Rufus Choate Scholar**  
-_Dartmouth College, Hanover, NH, 2012 - 2013, 2013 - 2014_  
-Annual award recognizing students in the top 5% of their class each academic year.
-
-**Sophomore Science Scholar**  
-_Dartmouth College, Hanover, NH, September 2013 - March 2014_  
-Undergraduate research assistantship for two academic terms with a faculty mentor. Awarded to second-year student applicants conducting research in the sciences.
 
 ## Skills
 **Computational Skills**  
@@ -143,6 +150,8 @@ _Hanover, NH, November 2015 - November 2016_
 _Lester B. Pearson United World College of the Pacific, Victoria, B.C., Canada, Summers 2010 - 2011_  
 
 - Collaborated with a team of 16 facilitators and 8 program coordinators to design and implement a month-long summer leadership program for 100 high school student participants from 20+ different countries. Topics included social justice, global citizenship, environmental sustainability, and community-building.
+
+\pagebreak
 
 ## References
 **Mina Cikara, Ph.D.**  
