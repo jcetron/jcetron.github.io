@@ -151,8 +151,6 @@ _Lester B. Pearson United World College of the Pacific, Victoria, B.C., Canada, 
 
 - Collaborated with a team of 16 facilitators and 8 program coordinators to design and implement a month-long summer leadership program for 100 high school student participants from 20+ different countries. Topics included social justice, global citizenship, environmental sustainability, and community-building.
 
-\pagebreak
-
 ## References
 **Mina Cikara, Ph.D.**  
 Assistant Professor, Department of Psychology  
