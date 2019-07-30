@@ -24,11 +24,11 @@ _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019). Using the force: STEM knowledge and experience construct shared neural representations of engineering concepts. _Submitted_. Preprint available at [https://psyarxiv.com/ue5fa](psyarxiv.com/ue5fa). Preprint DOI: 10.17605/OSF.IO/UE5FA.
 
+Alfred, K. L., **Cetron, J. S.**, Connolly, A. C., Kraemer, D. J. M. (2019). The neural representation of mental models across content type: a common spatial structure. _Under review_. Preprint available at [https://psyarxiv.com/dweqh](https://psyarxiv.com/dweqh)
+
 Alfred, K. L., Hayes, J. H., Pizzie, R. G., **Cetron, J. S.**, Kraemer, D. J. M. (2019). Individual differences in encoded neural representations within cortical speech production network. _Submitted_. Preprint available at [https://psyarxiv.com/8wcpv/](https://psyarxiv.com/8wcpv/). Preprint DOI: 10.31234/osf.io/8wcpv.
 
 Hayes, J. C., Alfred, K. L., Pizzie, R. G., **Cetron, J. S.**, Kraemer, D. J. M. (2019). Individual differences in white and grey matter structure associated with verbal habits of thought. _Submitted_. Preprint available at [https://psyarxiv.com/ukgyr/](https://psyarxiv.com/ukgyr/). Preprint DOI: 10.31234/osf.io/ukgyr.
-
-Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, Kraemer, D. J. M. (2019). The neural representation of mental models across content type: a common spatial structure. _Submitted_.
 
 ## Current projects
 **Cetron, J. S.** & Cikara, M. (2019). Understanding how opinions become represented as knowledge (and how to intervene). _In progress_.
@@ -138,8 +138,8 @@ Advisor: Leslie Kean, M.D./Ph.D.
 **Inaugural Member, Harvard Psychology Departmental Climate Committee**  
 _Cambridge, MA, 2019 - Present_  
 
-- Graduate student representative on the first committee to evaluate, address, and support the Psychology Department on issues relating to the departmental climate. 
- 
+- Graduate student representative on the first committee to evaluate, address, and support the Psychology Department on issues relating to the departmental climate.
+
 **Director, Dartmouth Outing Club (DOC) First-Year Trips Program**  
 _Hanover, NH, November 2015 - November 2016_  
 
