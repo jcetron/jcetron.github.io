@@ -20,24 +20,26 @@ B.A., Neuroscience, High Honors, Minors in Education and Spanish
 _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 
 ## Publications and Submitted Manuscripts
-**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019). Decoding individual differences in STEM learning from functional MRI data. _Nature Communications_, 10(1), 2027. [https://doi.org/10.1038/s41467-019-10053-y](https://doi.org/10.1038/s41467-019-10053-y)
+**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2019). Decoding individual differences in STEM learning from functional MRI data. _Nature Communications_, 10(1), 2027. [https://doi.org/10.1038/s41467-019-10053-y](https://doi.org/10.1038/s41467-019-10053-y)
 
-**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019). Using the force: STEM knowledge and experience construct shared neural representations of engineering concepts. _Submitted_. Preprint available at [https://psyarxiv.com/ue5fa](psyarxiv.com/ue5fa). Preprint DOI: 10.17605/OSF.IO/UE5FA.
+Alfred, K. L., Hayes, J. C., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Individual differences in encoded neural representations within cortical speech production network. _Brain Research_, 1726, 146483. [https://doi.org/10.1016/j.brainres.2019.146483](https://doi.org/10.1016/j.brainres.2019.146483)
 
-Alfred, K. L., Hayes, J. H., Pizzie, R. G., **Cetron, J. S.**, Kraemer, D. J. M. (2019). Individual differences in encoded neural representations within cortical speech production network. _Accepted: Brain Research_. Preprint available at [https://psyarxiv.com/8wcpv/](https://psyarxiv.com/8wcpv/). Preprint DOI: 10.31234/osf.io/8wcpv.
+Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). The neural representation of mental models across content type: a common spatial structure. _Accepted: Nature Communications Biology_. Preprint available at [https://psyarxiv.com/dweqh](https://psyarxiv.com/dweqh). Preprint DOI: 10.31234/osf.io/dweqh.
 
-Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, Kraemer, D. J. M. (2019). The neural representation of mental models across content type: a common spatial structure. _Under review_. Preprint available at [https://psyarxiv.com/dweqh](https://psyarxiv.com/dweqh). Preprint DOI: 10.31234/osf.io/dweqh.
+**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V.,&  Kraemer, D. J. M. (2019). Using the force: STEM knowledge and experience construct shared neural representations of engineering concepts. _Under review_. Preprint available at [https://psyarxiv.com/ue5fa](psyarxiv.com/ue5fa). Preprint DOI: 10.17605/OSF.IO/UE5FA.
 
-Hayes, J. C., Alfred, K. L., Pizzie, R. G., **Cetron, J. S.**, Kraemer, D. J. M. (2019). Individual differences in white and grey matter structure associated with verbal habits of thought. _Submitted_. Preprint available at [https://psyarxiv.com/ukgyr/](https://psyarxiv.com/ukgyr/). Preprint DOI: 10.31234/osf.io/ukgyr.
+Hayes, J. C., Alfred, K. L., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2019). Individual differences in white and grey matter structure associated with verbal habits of thought. _Submitted_. Preprint available at [https://psyarxiv.com/ukgyr/](https://psyarxiv.com/ukgyr/). Preprint DOI: 10.31234/osf.io/ukgyr.
 
 ## Current projects
+**Cetron, J. S.**, Haque, O., & Cikara, M. (2019). Is talk cheap? A willingness-to-pay investigation of social group attitude importance. _In progress_.
+
 **Cetron, J. S.** & Cikara, M. (2019). Understanding how opinions become represented as knowledge (and how to intervene). _In progress_.
 
-**Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods. _In progress_.
+**Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2019). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods. _In progress_.
 
-Peterson, E. M., Kolvoord, R. A., Kraemer, D. J. M., Weinberger, A. B., Uttal, D. H., Goldman, D., **Cetron, J. S.**, Green, A. E. (2019). A neural test of concept mastery in geoscience through evaluation of neural representations. _In progress_.
+Peterson, E. M., Kolvoord, R. A., Kraemer, D. J. M., Weinberger, A. B., Uttal, D. H., Goldman, D., **Cetron, J. S.**, & Green, A. E. (2019). A neural test of concept mastery in geoscience through evaluation of neural representations. _In progress_.
 
-Nastase, S. A., Hayes, J. H., **Cetron, J. S.**, Green, A. E., Cross, E. S., Haxby, J. V., Kraemer, D. J. M. (2017). Decoding perceptual retrieval: the influence of retrieval modality and task difficulty. _Manuscript in preparation_.
+Nastase, S. A., Hayes, J. H., **Cetron, J. S.**, Green, A. E., Cross, E. S., Haxby, J. V., & Kraemer, D. J. M. (2017). Decoding perceptual retrieval: the influence of retrieval modality and task difficulty. _Manuscript in preparation_.
 
 ## Other Publications
 **Cetron, J. S.**, & Dartmouth College. (2016). _The role of motor regions in representing engineering concepts_. (Senior Honors Thesis). Retrieved from Dartmouth College Library. (Control No. ocn953695823).
@@ -46,20 +48,17 @@ Kean, L., Sen, S., Felder, M. A., Tangpricha, V., Adisa, O., JAMES-Herry, A., Bu
 Disease. _Blood_, 118(21), 1054. Retrieved from [http://www.bloodjournal.org/content/118/21/1054](http://www.bloodjournal.org/content/118/21/1054).
 
 ## Selected Honors, Awards, Fellowships, & Research Funding
-**Fellow, Kavli Summer Institute in Cognitive Neuroscience**  
-_University of California, Santa Barbara, Summer 2019_  
-Fellow at the 2019 Kavli Summer Institute in Cognitive Neuroscience (SICN).
-
 **National Science Foundation Graduate Research Fellow**  
 _National Science Foundation, 2019 - Present_  
 Award recipient for the NSF Graduate Research Fellowship Program (GRFP) beginning 2019.
 
-**Associate Member, Simga Xi Scientific Research Honor Society**  
-_Sigma Xi, 2019 - Present_  
-
 **Presidential Scholar, Graduate School of Arts and Sciences**  
 _Harvard University, Cambridge, MA, September 2018 - Present_  
 Selected by the Harvard Graduate School of Arts and Sciences to receive the Presidential Scholarship Award in special recognition of a commitment to public service and intellectual excellence. Nominated by the Harvard Department of Psychology.
+
+**Fellow, Kavli Summer Institute in Cognitive Neuroscience**  
+_University of California, Santa Barbara, Summer 2019_  
+Fellow at the 2019 Kavli Summer Institute in Cognitive Neuroscience (SICN).
 
 **High Honors Award, Neuroscience Honors Thesis**  
 _Dartmouth College, Hanover, NH, June 2016_  
