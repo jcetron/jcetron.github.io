@@ -24,22 +24,24 @@ _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 
 Alfred, K. L., Hayes, J. C., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Individual differences in encoded neural representations within cortical speech production network. _Brain Research_, 1726, 146483. [https://doi.org/10.1016/j.brainres.2019.146483](https://doi.org/10.1016/j.brainres.2019.146483)
 
-Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). The neural representation of mental models across content type: a common spatial structure. _Accepted: Nature Communications Biology_. Preprint available at [https://psyarxiv.com/dweqh](https://psyarxiv.com/dweqh). Preprint DOI: 10.31234/osf.io/dweqh.
+Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). The neural representation of mental models across content type: a common spatial structure. _Nature Communications Biology_. [https://doi.org/10.1038/s42003-019-0740-8](https://doi.org/10.1038/s42003-019-0740-8)
 
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V.,&  Kraemer, D. J. M. (2019). Using the force: STEM knowledge and experience construct shared neural representations of engineering concepts. _Under review_. Preprint available at [https://psyarxiv.com/ue5fa](psyarxiv.com/ue5fa). Preprint DOI: 10.17605/OSF.IO/UE5FA.
 
 Hayes, J. C., Alfred, K. L., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2019). Individual differences in white and grey matter structure associated with verbal habits of thought. _Submitted_. Preprint available at [https://psyarxiv.com/ukgyr/](https://psyarxiv.com/ukgyr/). Preprint DOI: 10.31234/osf.io/ukgyr.
 
 ## Current projects
-**Cetron, J. S.**, Haque, O., & Cikara, M. (2019). Is talk cheap? A willingness-to-pay investigation of social group attitude importance. _In progress_.
+**Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2020). Is talk cheap? A willingness-to-pay investigation of social group attitude importance. _In progress_.
 
-**Cetron, J. S.** & Cikara, M. (2019). Understanding how opinions become represented as knowledge (and how to intervene). _In progress_.
+**Cetron, J. S.** & Cikara, M. (2020). Understanding how opinions become represented as knowledge (and how to intervene). _In progress_.
 
-**Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2019). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods. _In progress_.
+Borg, I., Mair, P., **Cetron, J. S.** (2020). Methods to identify partitions in MDS data space that correspond to facets in design space. _Manuscript in preparation_.
 
-Peterson, E. M., Kolvoord, R. A., Kraemer, D. J. M., Weinberger, A. B., Uttal, D. H., Goldman, D., **Cetron, J. S.**, & Green, A. E. (2019). A neural test of concept mastery in geoscience through evaluation of neural representations. _In progress_.
+**Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2020). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods. _In progress_.
 
-Nastase, S. A., Hayes, J. H., **Cetron, J. S.**, Green, A. E., Cross, E. S., Haxby, J. V., & Kraemer, D. J. M. (2017). Decoding perceptual retrieval: the influence of retrieval modality and task difficulty. _Manuscript in preparation_.
+Peterson, E. M., Kolvoord, R. A., Kraemer, D. J. M., Weinberger, A. B., Uttal, D. H., Goldman, D., **Cetron, J. S.**, & Green, A. E. (2020). A neural test of concept mastery in geoscience through evaluation of neural representations. _In progress_.
+
+Nastase, S. A., Hayes, J. H., **Cetron, J. S.**, Green, A. E., Cross, E. S., Haxby, J. V., & Kraemer, D. J. M. (2020). Decoding perceptual retrieval: the influence of retrieval modality and task difficulty. _Manuscript in preparation_.
 
 ## Other Publications
 **Cetron, J. S.**, & Dartmouth College. (2016). _The role of motor regions in representing engineering concepts_. (Senior Honors Thesis). Retrieved from Dartmouth College Library. (Control No. ocn953695823).
@@ -54,7 +56,7 @@ Award recipient for the NSF Graduate Research Fellowship Program (GRFP) beginnin
 
 **Presidential Scholar, Graduate School of Arts and Sciences**  
 _Harvard University, Cambridge, MA, September 2018 - Present_  
-Selected by the Harvard Graduate School of Arts and Sciences to receive the Presidential Scholarship Award in special recognition of a commitment to public service and intellectual excellence. Nominated by the Harvard Department of Psychology.
+Awarded by the Harvard Graduate School of Arts and Sciences in special recognition of a commitment to public service and intellectual excellence. Nominated by the Harvard Department of Psychology.
 
 **Fellow, Kavli Summer Institute in Cognitive Neuroscience**  
 _University of California, Santa Barbara, Summer 2019_  
@@ -62,19 +64,19 @@ Fellow at the 2019 Kavli Summer Institute in Cognitive Neuroscience (SICN).
 
 **High Honors Award, Neuroscience Honors Thesis**  
 _Dartmouth College, Hanover, NH, June 2016_  
-Undergraduate Neuroscience Honors Thesis awarded High Honors by the Department of Psychological and Brain Sciences.
+For undergraduate Neuroscience Honors Thesis in the Department of Psychological and Brain Sciences.
 
 **Citations for Meritorious Performance**  
 _Dartmouth College, Hanover, NH, 2014 - 2016_  
-On four unique occasions, received formal personal commendations from faculty for exceptional contributions to an academic course, each in a distinct department. Faculty remarks are recorded on students’ official undergraduate transcripts.
+Formal personal commendations from faculty (recorded on official transcript) for exceptional contributions to an academic course. Received on four occasions, each for a course in distinct department.
 
 **James O. Freeman Presidential Scholar**  
 _Dartmouth College, Hanover, NH, January 2015 - June 2015_  
 Funded third-year undergraduate research assistantship for two academic terms.
 
 **Kaminsky Family Fund Award Grant Researcher**  
-_Dartmouth College, Hanover, NH, Fall 2014, Summer 2015_  
-Dartmouth College Dean of the Faculty Undergraduate Research Grant recipient for two separate academic terms of full-time research work.
+_Dartmouth College, Hanover, NH, Fall 2014 & Summer 2015_  
+Dartmouth College Dean of the Faculty Undergraduate Research Grant for full-time research work.
 
 **Rufus Choate Scholar**  
 _Dartmouth College, Hanover, NH, 2012 - 2013, 2013 - 2014_  
@@ -136,34 +138,33 @@ Advisor: Leslie Kean, M.D./Ph.D.
 ## Additional Work & Leadership Experience
 **Inaugural Member, Harvard Psychology Departmental Climate Committee**  
 _Cambridge, MA, 2019 - Present_  
+Graduate student representative on the first committee to evaluate, address, and support the Psychology Department on issues relating to the departmental climate.
 
-- Graduate student representative on the first committee to evaluate, address, and support the Psychology Department on issues relating to the departmental climate.
+**Organizer, Harvard Psychology Methods Dinners**  
+_Cambridge, MA, Fall 2019 - Spring 2020_  
+Organized visiting speakers, journal club discussions, and student-led workshops as part of a student-initiated weekly dinner discussion series about current methods in psychology, alongside another student co-organizer.
+
+**Departmental Representative, Graduate Student Mental Health Initiative**  
+_Cambridge, MA, Spring 2020_  
+Contributed to the specification, administration, analysis, and presentation of a departmental mental health survey as part of a university-wide mental health initiative to evaluate and intervene on graduate student mental health issues at Harvard.
 
 **Director, Dartmouth Outing Club (DOC) First-Year Trips Program**  
 _Hanover, NH, November 2015 - November 2016_  
-
-- Directed the 2016 First-Year Trips program for the Dartmouth Outing Club, the largest College outdoor orientation program in the country, designing and overseeing 139 different five-day, student-led trips for approximately 1000 incoming students, which took place across New Hampshire (including in the White Mountains and along sections of the Appalachian Trail).  
-- Interviewed and hired a 20-person Directorate; selected and managed a student volunteer staff of 350+ (278 trip leaders, 56 support crew members on 6 separate teams) from an applicant pool of 600+.
+Directed the 2016 DOC First-Year Trips program, the largest College outdoor orientation program in the country. Designed and oversaw 139 five-day, student-led trips across New Hampshire for ~1000 incoming students. Interviewed and hired a 20-person Directorate; selected and managed a student volunteer staff of 350+ (278 trip leaders + 56 support crew members on 6 teams) from an applicant pool of 600+.
 
 **Program Facilitator, Pearson Seminar on Youth Leadership**  
 _Lester B. Pearson United World College of the Pacific, Victoria, B.C., Canada, Summers 2010 - 2011_  
-
-- Collaborated with a team of 16 facilitators and 8 program coordinators to design and implement a month-long summer leadership program for 100 high school student participants from 20+ different countries. Topics included social justice, global citizenship, environmental sustainability, and community-building.
+Designed and implemented a month-long summer leadership program on social justice, global citizenship, environmental sustainability, and community-building for 100 high school students from 20+ countries, alongside 16 other facilitators and 8 program coordinators.
 
 ## References
 **Mina Cikara, Ph.D.**  
-Assistant Professor, Department of Psychology  
-Harvard University, Cambridge, MA  
+Assistant Professor, Department of Psychology, Harvard University, Cambridge, MA  
 (617) 495-3819, [mcikara@fas.harvard.edu](mailto:mcikara@fas.harvard.edu)
 
 **David J. M. Kraemer, Ph.D.**  
-Assistant Professor, Department of Education  
-Advisor, Department of Psychological and Brain Sciences, Graduate Program  
-Dartmouth College, Hanover, NH  
+Assistant Professor, Department of Education; Graduate Advisor, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH  
 (603) 667-0472, [david.j.m.kraemer@dartmouth.edu](mailto:david.j.m.kraemer@dartmouth.edu)
 
 **James V. Haxby, Ph.D.**  
-Evans Family Distinguished Professor, Department of Psychological and Brain Sciences Director, Center for Cognitive Neuroscience  
-Director, Dartmouth Brain Imaging Center  
-Dartmouth College, Hanover, NH  
+Evans Family Distinguished Professor, Department of Psychological and Brain Sciences Director, Center for Cognitive Neuroscience; Director, Dartmouth Brain Imaging Center, Dartmouth College, Hanover, NH  
 (603) 646-0038, [james.v.haxby@dartmouth.edu](mailto:james.v.haxby@dartmouth.edu)
