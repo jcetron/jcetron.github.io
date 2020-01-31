@@ -157,14 +157,11 @@ _Lester B. Pearson United World College of the Pacific, Victoria, B.C., Canada, 
 Designed and implemented a month-long summer leadership program on social justice, global citizenship, environmental sustainability, and community-building for 100 high school students from 20+ countries, alongside 16 other facilitators and 8 program coordinators.
 
 ## References
-**Mina Cikara, Ph.D.**  
+**Mina Cikara, Ph.D.** | (617) 495-3819 | [mcikara@fas.harvard.edu](mailto:mcikara@fas.harvard.edu)  
 Assistant Professor, Department of Psychology, Harvard University, Cambridge, MA  
-(617) 495-3819, [mcikara@fas.harvard.edu](mailto:mcikara@fas.harvard.edu)
 
-**David J. M. Kraemer, Ph.D.**  
+**David J. M. Kraemer, Ph.D.** | (603) 667-0472 | [david.j.m.kraemer@dartmouth.edu](mailto:david.j.m.kraemer@dartmouth.edu)  
 Assistant Professor, Department of Education; Graduate Advisor, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH  
-(603) 667-0472, [david.j.m.kraemer@dartmouth.edu](mailto:david.j.m.kraemer@dartmouth.edu)
 
-**James V. Haxby, Ph.D.**  
+**James V. Haxby, Ph.D.** | (603) 646-0038 | [james.v.haxby@dartmouth.edu](mailto:james.v.haxby@dartmouth.edu)  
 Evans Family Distinguished Professor, Department of Psychological and Brain Sciences Director, Center for Cognitive Neuroscience; Director, Dartmouth Brain Imaging Center, Dartmouth College, Hanover, NH  
-(603) 646-0038, [james.v.haxby@dartmouth.edu](mailto:james.v.haxby@dartmouth.edu)
