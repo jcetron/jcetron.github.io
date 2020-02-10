@@ -20,13 +20,13 @@ B.A., Neuroscience, High Honors, Minors in Education and Spanish
 _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 
 ## Publications and Submitted Manuscripts
+**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V.,&  Kraemer, D. J. M. (2020). Using the force: STEM knowledge and experience construct shared neural representations of engineering concepts. _Accepted_. Preprint available at [https://psyarxiv.com/ue5fa](psyarxiv.com/ue5fa). Preprint DOI: 10.17605/OSF.IO/UE5FA.
+
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2019). Decoding individual differences in STEM learning from functional MRI data. _Nature Communications_, 10(1), 2027. [https://doi.org/10.1038/s41467-019-10053-y](https://doi.org/10.1038/s41467-019-10053-y)
 
 Alfred, K. L., Hayes, J. C., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Individual differences in encoded neural representations within cortical speech production network. _Brain Research_, 1726, 146483. [https://doi.org/10.1016/j.brainres.2019.146483](https://doi.org/10.1016/j.brainres.2019.146483)
 
 Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). The neural representation of mental models across content type: a common spatial structure. _Nature Communications Biology_. [https://doi.org/10.1038/s42003-019-0740-8](https://doi.org/10.1038/s42003-019-0740-8)
-
-**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V.,&  Kraemer, D. J. M. (2019). Using the force: STEM knowledge and experience construct shared neural representations of engineering concepts. _Under review_. Preprint available at [https://psyarxiv.com/ue5fa](psyarxiv.com/ue5fa). Preprint DOI: 10.17605/OSF.IO/UE5FA.
 
 Hayes, J. C., Alfred, K. L., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2019). Individual differences in white and grey matter structure associated with verbal habits of thought. _Submitted_. Preprint available at [https://psyarxiv.com/ukgyr/](https://psyarxiv.com/ukgyr/). Preprint DOI: 10.31234/osf.io/ukgyr.
 
