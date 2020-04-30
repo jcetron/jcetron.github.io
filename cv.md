@@ -37,7 +37,7 @@ Hayes, J. C., Alfred, K. L., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. 
 
 Borg, I., Mair, P., **Cetron, J. S.** (2020). Methods to identify partitions in MDS data space that correspond to facets in design space. _Manuscript in preparation_.
 
-Lees, J., **Cetron, J. S.**, Vollberg, M. C., Reggev, N., & Cikara, M. (2020). Misperceived Social Norms Drive Noncompliance with COVID-19 Preventative Behaviors. _Manuscript in preparation_.
+Lees, J., **Cetron, J. S.**, Vollberg, M. C., Reggev, N., & Cikara, M. (2020). Evidence for pluralistic ignorance in perceived social norms of COVID-19 preventative health behaviors, but no evidence it drives noncompliance with such behaviors. _Manuscript in preparation_.
 
 **Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2020). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods. _In progress_.
 
