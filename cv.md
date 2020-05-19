@@ -20,7 +20,7 @@ B.A., Neuroscience, High Honors, Minors in Education and Spanish
 _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 
 ## Publications and Submitted Manuscripts
-**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V.,&  Kraemer, D. J. M. (2020). Using the force: STEM knowledge and experience construct shared neural representations of engineering concepts. _Accepted_. Preprint available at [https://psyarxiv.com/ue5fa](psyarxiv.com/ue5fa). Preprint DOI: 10.17605/OSF.IO/UE5FA.
+**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V.,&  Kraemer, D. J. M. (2020). Using the force: STEM knowledge and experience construct shared neural representations of engineering concepts. _Nature Partner Journals: Science of Learning_. 5, 6 (2020). [https://doi.org/10.1038/s41539-020-0065-x](https://doi.org/10.1038/s41539-020-0065-x)
 
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2019). Decoding individual differences in STEM learning from functional MRI data. _Nature Communications_, 10(1), 2027. [https://doi.org/10.1038/s41467-019-10053-y](https://doi.org/10.1038/s41467-019-10053-y)
 
