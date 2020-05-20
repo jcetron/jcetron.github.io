@@ -28,7 +28,7 @@ Alfred, K. L., Hayes, J. C., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. 
 
 Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). The neural representation of mental models across content type: a common spatial structure. _Nature Communications Biology_. [https://doi.org/10.1038/s42003-019-0740-8](https://doi.org/10.1038/s42003-019-0740-8)
 
-Hayes, J. C., Alfred, K. L., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2019). Individual differences in white and grey matter structure associated with verbal habits of thought. _Submitted_. Preprint available at [https://psyarxiv.com/ukgyr/](https://psyarxiv.com/ukgyr/). Preprint DOI: 10.31234/osf.io/ukgyr.
+Hayes, J. C., Alfred, K. L., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2019). Individual differences in white and grey matter structure associated with verbal habits of thought. _Submitted_. Preprint available at [https://psyarxiv.com/ukgyr/](https://psyarxiv.com/ukgyr/). Preprint DOI: 10.31234/osf.io/ukgyr
 
 ## Current projects
 **Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2020). Is talk cheap? A willingness-to-pay investigation of social group attitude importance. _In progress_.
@@ -37,7 +37,7 @@ Hayes, J. C., Alfred, K. L., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. 
 
 Borg, I., Mair, P., **Cetron, J. S.** (2020). Methods to identify partitions in MDS data space that correspond to facets in design space. _Manuscript in preparation_.
 
-Lees, J., **Cetron, J. S.**, Vollberg, M. C., Reggev, N., & Cikara, M. (2020). Evidence for pluralistic ignorance in perceived social norms of COVID-19 preventative health behaviors, but no evidence it drives noncompliance with such behaviors. _Manuscript in preparation_.
+Lees, J., **Cetron, J. S.**, Vollberg, M. C., Reggev, N., & Cikara, M. (2020). Intentions to comply with COVID-19 preventive behaviors are associated with personal beliefs, independent of perceived social norms. _Preprint_. Preprint available at [https://psyarxiv.com/97jry/](https://psyarxiv.com/97jry/). Preprint DOI: 10.31234/osf.io/97jry
 
 **Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2020). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods. _In progress_.
 
