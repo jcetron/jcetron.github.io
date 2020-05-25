@@ -19,18 +19,18 @@ Advisor: Mina Cikara, Ph.D.
 B.A., Neuroscience, High Honors, Minors in Education and Spanish  
 _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 
-## Publications and Submitted Manuscripts
-**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V.,&  Kraemer, D. J. M. (2020). Using the force: STEM knowledge and experience construct shared neural representations of engineering concepts. _Nature Partner Journals: Science of Learning_. 5, 6 (2020). [https://doi.org/10.1038/s41539-020-0065-x](https://doi.org/10.1038/s41539-020-0065-x)
+## Peer-Reviewed Publications
+**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V.,&  Kraemer, D. J. M. (2020). Using the force: STEM knowledge and experience construct shared neural representations of engineering concepts. _Nature Partner Journals: Science of Learning_, 5, 6. [https://doi.org/10.1038/s41539-020-0065-x](https://doi.org/10.1038/s41539-020-0065-x)
 
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2019). Decoding individual differences in STEM learning from functional MRI data. _Nature Communications_, 10(1), 2027. [https://doi.org/10.1038/s41467-019-10053-y](https://doi.org/10.1038/s41467-019-10053-y)
 
+Hayes, J. C., Alfred, K. L., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Individual differences in white and grey matter structure associated with verbal habits of thought. _Brain Research_, 1742, 146890. [https://doi.org/10.1016/j.brainres.2020.146890](https://doi.org/10.1016/j.brainres.2020.146890)
+
+Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Mental models use common neural spatial structure for spatial and abstract content. _Nature Communications Biology_, 3, 17. [https://doi.org/10.1038/s42003-019-0740-8](https://doi.org/10.1038/s42003-019-0740-8)
+
 Alfred, K. L., Hayes, J. C., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Individual differences in encoded neural representations within cortical speech production network. _Brain Research_, 1726, 146483. [https://doi.org/10.1016/j.brainres.2019.146483](https://doi.org/10.1016/j.brainres.2019.146483)
 
-Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). The neural representation of mental models across content type: a common spatial structure. _Nature Communications Biology_. [https://doi.org/10.1038/s42003-019-0740-8](https://doi.org/10.1038/s42003-019-0740-8)
-
-Hayes, J. C., Alfred, K. L., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2019). Individual differences in white and grey matter structure associated with verbal habits of thought. _Submitted_. Preprint available at [https://psyarxiv.com/ukgyr/](https://psyarxiv.com/ukgyr/). Preprint DOI: 10.31234/osf.io/ukgyr
-
-## Current projects
+## Current Projects
 **Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2020). Is talk cheap? A willingness-to-pay investigation of social group attitude importance. _In progress_.
 
 **Cetron, J. S.** & Cikara, M. (2020). Understanding how opinions become represented as knowledge (and how to intervene). _In progress_.
