@@ -12,8 +12,11 @@ _**Research interests:** computational and multivariate analysis of cognitive ne
 
 ## Education
 **_Harvard University_**, Cambridge, MA, _September 2018 - Present_  
-Doctoral Student, Department of Psychology  
+Ph.D. Candidate, Department of Psychology  
 Advisor: Mina Cikara, Ph.D.  
+
+**_Harvard University_**, Cambridge, MA, _March 2021 (expected)_  
+A.M., Psychology  
 
 **_Dartmouth College_**, Hanover, NH, _September 2012 - June 2016_  
 B.A., Neuroscience, High Honors, Minors in Education and Spanish  
@@ -31,7 +34,7 @@ Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). M
 Alfred, K. L., Hayes, J. C., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Individual differences in encoded neural representations within cortical speech production network. _Brain Research_, 1726, 146483. [https://doi.org/10.1016/j.brainres.2019.146483](https://doi.org/10.1016/j.brainres.2019.146483)
 
 ## Current Projects
-**Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2020). Is talk cheap? A willingness-to-pay investigation of social group attitude importance. _In progress_.
+**Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2020). Attitude importance, more than extremity, predicts costly intergroup behavior. _Manuscript in preparation_.
 
 **Cetron, J. S.** & Cikara, M. (2020). Understanding how opinions become represented as knowledge (and how to intervene). _In progress_.
 
@@ -88,7 +91,12 @@ Annual award recognizing students in the top 5% of their class each academic yea
 _Dartmouth College, Hanover, NH, September 2013 - March 2014_  
 Funded second-year undergraduate research assistantship for two academic terms.
 
-## Conference Presentations
+## Invited Talks & Symposium Presentations
+**Invited Symposium Talk: Psychology of Knowledge and Opinion**  
+_Southern Society for Philosophy and Psychology Annual Meeting, Virtual Conference, December 3-5, 2020_  
+Talk title: "How opinions become represented as knowledge."
+
+## Other Conference Presentations
 **Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019, March). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods. Poster presented at the 2019 annual meeting of the Cognitive Neuroscience Society, San Francisco, CA.
 
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2018, March). A neural score for engineering concepts: predicting STEM learning with multivariate pattern analysis of functional neuroimaging data. Poster presented at the 2018 annual meeting of the Cognitive Neuroscience Society, Boston, MA.
@@ -100,6 +108,22 @@ Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, Kraemer, D. J. M. (2017, Marc
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Kraemer, D. J. M. (2016, May). The role of motor regions in representing engineering concepts. Poster presented at the inaugural meeting of the Psychonomics Society International, Granada, Spain.
 
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Kraemer, D. J. M. (2016, April). The role of motor regions in representing engineering concepts. Poster presented at the annual meeting of the Cognitive Neuroscience Society, New York, NY.
+
+## Teaching & Mentorship  
+**Teaching Fellow, PSY 1950: Intermediate Statistical Analysis in Psychology**  
+_Harvard University, Cambridge, MA, Fall 2020_  
+Lead instructor: Patrick Mair  
+Teaching Fellow for the introductory graduate statistics course required of all Harvard Psychology doctoral students. Material covered: introduction to R statistical software, linear regression, mixed-effects modeling, and generalized linear (mixed-effect) models. Designed all laboratory materials and problem sets, teaching two weekly 90-minute sections providing individualized written feedback on assignments. In Fall 2020, all teaching was conducted over Zoom.
+
+**Research Advisor to Neuroscience Thesis Student**  
+_Harvard University, Cambridge, MA, Fall 2020 - Present_  
+Advisee: Jacob Blair  
+Collaborated with, supervised, and mentored a Harvard undergraduate neuroscience thesis student (Jacob Blair) beginning Fall 2020 to develop and initiate a research project on the psychological representations of opinion and factual statements. This research program will develop into a neuroimaging study and continue through 2021 and into 2022.
+
+**Research Advisor to NSF Leadership Alliance Student**  
+_Harvard University, Cambridge, MA, Summers 2019 & 2020_  
+Advisee: Onyul Haque  
+Collaborated with, supervised, and mentored a visiting undergraduate student (Onyul Hauqe) for two consecutive summers in the development, administration, analysis, and presentation of a new research project on intergroup attitude importance, culminating in a manuscript that we are preparing to submit for peer-reviewed upblication. Student also presented work at a national conference each summer.
 
 ## Skills
 **Computational Skills**  
@@ -121,7 +145,7 @@ _Language Skills:_ Fluent in Spanish.
 _Musical Training:_ 15+ years of musical instrument, independent songwriting, and performance experience.
 
 ## Research Experience
-**Doctoral Student, Harvard Intergroup Neuroscience Lab**  
+**Ph.D. Candidate, Harvard Intergroup Neuroscience Lab**  
 _Harvard University, Cambridge, MA, September 2018 - Present_  
 Advisor: Mina Cikara, Ph.D.
 
@@ -137,19 +161,24 @@ Advisor: David J. M. Kraemer, Ph.D.
 _Emory University and Yerkes International Primate Research Center, Atlanta, GA, Summers 2010 - 2012_  
 Advisor: Leslie Kean, M.D./Ph.D.
 
-## Additional Work & Leadership Experience
+## Community Engagement & Leadership  
 **Inaugural Member, Harvard Psychology Departmental Climate Committee**  
 _Cambridge, MA, 2019 - Present_  
 Graduate student representative on the first committee to evaluate, address, and support the Psychology Department on issues relating to the departmental climate.
+
+**Committee Member, Harvard Psychology Graduate Mental Health Initiative**  
+_Cambridge, MA, 2019 - 2020_  
+Contributed to the specification, administration, analysis, reporting, and presentation of a departmental mental health survey as part of a university-wide mental health initiative to evaluate and intervene on graduate student mental health issues at Harvard.
 
 **Organizer, Harvard Psychology Methods Dinners**  
 _Cambridge, MA, Fall 2019 - Spring 2020_  
 Organized visiting speakers, journal club discussions, and student-led workshops as part of a student-initiated weekly dinner discussion series about current methods in psychology, alongside another student co-organizer.
 
-**Departmental Representative, Graduate Student Mental Health Initiative**  
-_Cambridge, MA, Spring 2020_  
-Contributed to the specification, administration, analysis, and presentation of a departmental mental health survey as part of a university-wide mental health initiative to evaluate and intervene on graduate student mental health issues at Harvard.
+**Organizer, Harvard Psychology Graduate Program Orientation**  
+_Cambridge, MA, Fall 2019_  
+Planned, organized, and ran a two-day departmental orientation program with a co-organizer for the incoming doctoral student cohort, including faculty and staff introductions, student panels, and health information sessions.
 
+## Additional Work & Leadership Experience
 **Director, Dartmouth Outing Club (DOC) First-Year Trips Program**  
 _Hanover, NH, November 2015 - November 2016_  
 Directed the 2016 DOC First-Year Trips program, the largest College outdoor orientation program in the country. Designed and oversaw 139 five-day, student-led trips across New Hampshire for ~1000 incoming students. Interviewed and hired a 20-person Directorate; selected and managed a student volunteer staff of 350+ (278 trip leaders + 56 support crew members on 6 teams) from an applicant pool of 600+.
