@@ -95,7 +95,7 @@ Funded second-year undergraduate research assistantship for two academic terms.
 **Invited Symposium Talk: Psychology of Knowledge and Opinion**  
 _Southern Society for Philosophy and Psychology Annual Meeting_  
 _Virtual Conference (due to COVID-19), December 3-5, 2020_  
-Talk title: "How opinions become represented as knowledge."
+Talk title: "How opinions become represented as knowledge."  
 Project co-authors: **Cetron, J. S.**, Blair, J., Siegel, S., & Cikara, M.
 
 ## Other Conference Presentations
