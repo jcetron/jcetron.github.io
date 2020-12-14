@@ -93,8 +93,10 @@ Funded second-year undergraduate research assistantship for two academic terms.
 
 ## Invited Talks & Symposium Presentations
 **Invited Symposium Talk: Psychology of Knowledge and Opinion**  
-_Southern Society for Philosophy and Psychology Annual Meeting, Virtual Conference, December 3-5, 2020_  
+_Southern Society for Philosophy and Psychology Annual Meeting_  
+_Virtual Conference (due to COVID-19), December 3-5, 2020_  
 Talk title: "How opinions become represented as knowledge."
+Project co-authors: **Cetron, J. S.**, Blair, J., Siegel, S., & Cikara, M.
 
 ## Other Conference Presentations
 **Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019, March). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods. Poster presented at the 2019 annual meeting of the Cognitive Neuroscience Society, San Francisco, CA.
