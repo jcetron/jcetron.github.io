@@ -13,7 +13,7 @@ _**Research interests:** computational and multivariate analysis of cognitive ne
 ## Education
 **_Harvard University_**, Cambridge, MA, _September 2018 - Present_  
 Ph.D. Candidate, Department of Psychology  
-Advisor: Mina Cikara, Ph.D.  
+Advisors: Mina Cikara, Ph.D., Joshua Greene, Ph.D.  
 
 **_Harvard University_**, Cambridge, MA, _March 2021 (expected)_  
 A.M., Psychology  
@@ -34,11 +34,11 @@ Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). M
 Alfred, K. L., Hayes, J. C., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Individual differences in encoded neural representations within cortical speech production network. _Brain Research_, 1726, 146483. [https://doi.org/10.1016/j.brainres.2019.146483](https://doi.org/10.1016/j.brainres.2019.146483)
 
 ## Current Projects
-**Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2020). Attitude importance, more than extremity, predicts costly intergroup behavior. _Manuscript in preparation_.
+**Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2021). Attitude importance, more than extremity, predicts costly intergroup behavior. _Submitted_. Preprint available at [https://osf.io/xzpfu](https://osf.io/xzpfu). Preprint DOI: 10.31219/osf.io/xzpfu
 
-**Cetron, J. S.** & Cikara, M. (2020). Understanding how opinions become represented as knowledge (and how to intervene). _In progress_.
+**Cetron, J. S.** & Cikara, M. (2021). Understanding how opinions become represented as knowledge (and how to intervene). _In progress_.
 
-Borg, I., Mair, P., **Cetron, J. S.** (2020). Methods to identify partitions in MDS data space that correspond to facets in design space. _Manuscript in preparation_.
+Borg, I., Mair, P., **Cetron, J. S.** (2021). Methods to identify partitions in MDS data space that correspond to facets in design space. _Manuscript in preparation_.
 
 Lees, J., **Cetron, J. S.**, Vollberg, M. C., Reggev, N., & Cikara, M. (2020). Intentions to comply with COVID-19 preventive behaviors are associated with personal beliefs, independent of perceived social norms. _Preprint_. Preprint available at [https://psyarxiv.com/97jry/](https://psyarxiv.com/97jry/). Preprint DOI: 10.31234/osf.io/97jry
 
@@ -125,7 +125,7 @@ Collaborated with, supervised, and mentored a Harvard undergraduate neuroscience
 **Research Advisor to NSF Leadership Alliance Student**  
 _Harvard University, Cambridge, MA, Summers 2019 & 2020_  
 Advisee: Onyul Haque  
-Collaborated with, supervised, and mentored a visiting undergraduate student (Onyul Hauqe) for two consecutive summers in the development, administration, analysis, and presentation of a new research project on intergroup attitude importance, culminating in a manuscript that we are preparing to submit for peer-reviewed upblication. Student also presented work at a national conference each summer.
+Collaborated with, supervised, and mentored a visiting undergraduate student (Onyul Hauqe) for two consecutive summers in the development, administration, analysis, and presentation of a new research project on intergroup attitude importance, culminating in a manuscript that has been submitted for peer-reviewed publication (see Current Projects above). Student also presented work at a national conference each summer.
 
 ## Skills
 **Computational Skills**  
