@@ -15,7 +15,7 @@ _**Research interests:** computational and multivariate analysis of cognitive ne
 Ph.D. Candidate, Department of Psychology  
 Advisors: Mina Cikara, Ph.D., Joshua Greene, Ph.D.  
 
-**_Harvard University_**, Cambridge, MA, _March 2021 (expected)_  
+**_Harvard University_**, Cambridge, MA, _March 2021_  
 A.M., Psychology  
 
 **_Dartmouth College_**, Hanover, NH, _September 2012 - June 2016_  
@@ -38,7 +38,7 @@ Alfred, K. L., Hayes, J. C., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. 
 
 **Cetron, J. S.** & Cikara, M. (2021). Understanding how opinions become represented as knowledge (and how to intervene). _In progress_.
 
-Borg, I., Mair, P., **Cetron, J. S.** (2021). Methods to identify partitions in MDS data space that correspond to facets in design space. _Manuscript in preparation_.
+Borg, I., Mair, P., **Cetron, J. S.** (2021). Methods to identify partitions in MDS data space that correspond to facets in design space. _Submitted_.
 
 Lees, J., **Cetron, J. S.**, Vollberg, M. C., Reggev, N., & Cikara, M. (2020). Intentions to comply with COVID-19 preventive behaviors are associated with personal beliefs, independent of perceived social norms. _Preprint_. Preprint available at [https://psyarxiv.com/97jry/](https://psyarxiv.com/97jry/). Preprint DOI: 10.31234/osf.io/97jry
 
