@@ -36,9 +36,9 @@ Alfred, K. L., Hayes, J. C., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. 
 ## Current Projects
 **Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2021). Attitude importance, more than extremity, predicts costly intergroup behavior. _Submitted_. Preprint available at [https://osf.io/xzpfu](https://osf.io/xzpfu). Preprint DOI: 10.31219/osf.io/xzpfu
 
-**Cetron, J. S.** & Cikara, M. (2021). Understanding how opinions become represented as knowledge (and how to intervene). _In progress_.
+**Cetron, J. S.**, Blair, J., Siegel, S., & Cikara, M. (2021). Understanding how opinions become represented as knowledge (and how to intervene). _In progress_.
 
-Borg, I., Mair, P., **Cetron, J. S.** (2021). Methods to identify partitions in MDS data space that correspond to facets in design space. _Submitted_.
+Borg, I., Mair, P., **Cetron, J. S.** (2021). Methods to identify partitions in MDS data space that correspond to facets in design space. _Under review_.
 
 Lees, J., **Cetron, J. S.**, Vollberg, M. C., Reggev, N., & Cikara, M. (2020). Intentions to comply with COVID-19 preventive behaviors are associated with personal beliefs, independent of perceived social norms. _Preprint_. Preprint available at [https://psyarxiv.com/97jry/](https://psyarxiv.com/97jry/). Preprint DOI: 10.31234/osf.io/97jry
 
@@ -62,6 +62,10 @@ Award recipient for the NSF Graduate Research Fellowship Program (GRFP) beginnin
 **Presidential Scholar, Graduate School of Arts and Sciences**  
 _Harvard University, Cambridge, MA, September 2018 - Present_  
 Awarded by the Harvard Graduate School of Arts and Sciences in special recognition of a commitment to public service and intellectual excellence. Nominated by the Harvard Department of Psychology.
+
+**Certificate of Distinction in Teaching, Derek Bok Center for Teaching and Learning**  
+_Harvard University, Cambridge, MA, Fall 2020_  
+Award for teaching excellence in PSY 1950: Intermediate Statistical Analysis in Psychology.
 
 **Fellow, Kavli Summer Institute in Cognitive Neuroscience**  
 _University of California, Santa Barbara, Summer 2019_  
@@ -115,7 +119,7 @@ Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, Kraemer, D. J. M. (2017, Marc
 **Teaching Fellow, PSY 1950: Intermediate Statistical Analysis in Psychology**  
 _Harvard University, Cambridge, MA, Fall 2020_  
 Lead instructor: Patrick Mair  
-Teaching Fellow for the introductory graduate statistics course required of all Harvard Psychology doctoral students. Material covered: introduction to R statistical software, linear regression, mixed-effects modeling, and generalized linear (mixed-effect) models. Designed all laboratory materials and problem sets, teaching two weekly 90-minute sections providing individualized written feedback on assignments. In Fall 2020, all teaching was conducted over Zoom.
+Teaching Fellow for the introductory graduate statistics course required of all Harvard Psychology doctoral students. Material covered: introduction to R statistical software, linear regression, mixed-effects modeling, and generalized linear (mixed-effect) models. Designed all laboratory materials and problem sets, teaching two weekly 90-minute sections providing individualized written feedback on assignments. In Fall 2020, all teaching was conducted over Zoom. Awarded the Derek Bok Center Certificate of Distinction in Teaching for instruction in this course.  
 
 **Research Advisor to Neuroscience Thesis Student**  
 _Harvard University, Cambridge, MA, Fall 2020 - Present_  
@@ -129,11 +133,11 @@ Collaborated with, supervised, and mentored a visiting undergraduate student (On
 
 ## Skills
 **Computational Skills**  
-_Programming Languages:_ R, Python (including SciPy and NumPy), Unix (bash), Markdown, Slurm cluster computing, some JavaScript (jsPsych).  
-_Computational Tools & Software:_ RStudio, iPython, Jupyter, PsychoPy, Git, Atom, Slurm, Qualtrics, jsPsych.
+_Programming Languages:_ R, Python (incl. SciPy, NumPy), Unix (bash, zsh), Markdown (incl. RMarkdown), Slurm cluster computing, minimal JavaScript (jsPsych).  
+_Computational Tools & Software:_ RStudio, Jupyter notebooks, iPython, PsychoPy, Git, Atom, Qualtrics, Slurm, jsPsych.
 
 **Statistical Skills**  
-_Analyses:_ standard and generalized linear fixed-effects, mixed-effects, and additive modeling, multivariate cluster analysis (standard and bootstrapped hierarchical clustering, density-based clustering), dimensionality reduction (multidimensional scaling, principal components analysis), support vector machine classification.
+_Analyses:_ standard and generalized linear fixed-effects, mixed-effects, and additive modeling (incl. ordinal multilevel modeling) fitted using frequentist and Bayesian implementations; multivariate cluster analysis incl. hierarchical clustering (standard and bootstrapped), density-based clustering), dimensionality reduction (multidimensional scaling, principal components analysis); machine learning and classification analyses incl. support vector machine classification (with tuning, cross-validation).
 
 **Neuroimaging Skills**  
 _Functional MRI Scanning:_ Scanner operation and safety training (Philips 3.0 T Achieva Intera, Siemens PRISMA 3T).  
@@ -141,15 +145,15 @@ _Neuroimaging Analysis Tools:_ AFNI (AFNI bootcamp certified), SUMA, FSL, FreeSu
 _Neuroimaging Analysis Procedures:_ General linear modeling (subject- and group-level), whole-brain searchlight multivariate pattern analysis (MVPA), representational similarity analysis (RSA).
 
 **Other Skills**  
-_Media Processing:_ Audio editing, recording, and mastering (Logic Pro X), image manipulation (GIMP), video editing (DaVinci Resolve, Final Cut Express).  
-_Engineering:_ Electronics soldering, basic circuit wiring, basic woodworking, amateur luthier.  
+_Media Processing:_ Audio editing, recording, and mastering (Logic Pro X), image manipulation (Photoshop, GIMP), video editing (DaVinci Resolve, Final Cut Express).  
+_Engineering:_ Electronics soldering, basic woodworking, amateur luthier.  
 _Language Skills:_ Fluent in Spanish.  
-_Musical Training:_ 15+ years of musical instrument, independent songwriting, and performance experience.
+_Musical Training:_ 20+ years of multi-instrumental training, songwriting, and performance experience.
 
 ## Research Experience
 **Ph.D. Candidate, Harvard Intergroup Neuroscience Lab**  
 _Harvard University, Cambridge, MA, September 2018 - Present_  
-Advisor: Mina Cikara, Ph.D.
+Advisors: Mina Cikara, Ph.D., Joshua Greene, Ph.D.
 
 **Post-Baccalaureate Researcher and Lab Manager, Cognitive Neuroscience of Learning Lab**  
 _Dartmouth College, Hanover, NH, September 2016 - September 2018_  
@@ -191,10 +195,13 @@ Designed and implemented a month-long summer leadership program on social justic
 
 ## References
 **Mina Cikara, Ph.D.** | (617) 495-3819 | [mcikara@fas.harvard.edu](mailto:mcikara@fas.harvard.edu)  
-Assistant Professor, Department of Psychology, Harvard University, Cambridge, MA  
+Associate Professor, Department of Psychology, Harvard University, Cambridge, MA  
+
+**Joshua Greene, Ph.D.** | (617) 495-3898 | [jgreene@wjh.harvard.edu](mailto:jgreene@wjh.harvard.edu)  
+Professor, Department of Psychology, Harvard University, Cambridge, MA
 
 **David J. M. Kraemer, Ph.D.** | (603) 667-0472 | [david.j.m.kraemer@dartmouth.edu](mailto:david.j.m.kraemer@dartmouth.edu)  
-Assistant Professor, Department of Education; Graduate Advisor, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH  
+Associate Professor, Department of Education; Graduate Advisor, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH  
 
 **James V. Haxby, Ph.D.** | (603) 646-0038 | [james.v.haxby@dartmouth.edu](mailto:james.v.haxby@dartmouth.edu)  
 Evans Family Distinguished Professor, Department of Psychological and Brain Sciences Director, Center for Cognitive Neuroscience; Director, Dartmouth Brain Imaging Center, Dartmouth College, Hanover, NH  
