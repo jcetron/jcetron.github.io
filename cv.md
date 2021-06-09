@@ -34,7 +34,7 @@ Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). M
 Alfred, K. L., Hayes, J. C., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Individual differences in encoded neural representations within cortical speech production network. _Brain Research_, 1726, 146483. [https://doi.org/10.1016/j.brainres.2019.146483](https://doi.org/10.1016/j.brainres.2019.146483)
 
 ## Current Projects
-**Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2021). Attitude importance, more than extremity, predicts costly intergroup behavior. _Submitted_. Preprint available at [https://osf.io/xzpfu](https://osf.io/xzpfu). Preprint DOI: 10.31219/osf.io/xzpfu
+**Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2021). Attitude importance, more than extremity, predicts costly intergroup behavior. _Under review_. Preprint available at [https://osf.io/xzpfu](https://osf.io/xzpfu). Preprint DOI: 10.31219/osf.io/xzpfu
 
 **Cetron, J. S.**, Blair, J., Siegel, S., & Cikara, M. (2021). Understanding how opinions become represented as knowledge (and how to intervene). _In progress_.
 
@@ -42,7 +42,7 @@ Borg, I., Mair, P., **Cetron, J. S.** (2021). Methods to identify partitions in 
 
 Lees, J., **Cetron, J. S.**, Vollberg, M. C., Reggev, N., & Cikara, M. (2020). Intentions to comply with COVID-19 preventive behaviors are associated with personal beliefs, independent of perceived social norms. _Preprint_. Preprint available at [https://psyarxiv.com/97jry/](https://psyarxiv.com/97jry/). Preprint DOI: 10.31234/osf.io/97jry
 
-**Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2020). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods. _In progress_.
+**Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2021). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods. _In progress_.
 
 Peterson, E. M., Kolvoord, R. A., Kraemer, D. J. M., Weinberger, A. B., Uttal, D. H., Goldman, D., **Cetron, J. S.**, & Green, A. E. (2020). A neural test of concept mastery in geoscience through evaluation of neural representations. _In progress_.
 
@@ -137,7 +137,7 @@ _Programming Languages:_ R, Python (incl. SciPy, NumPy), Unix (bash, zsh), Markd
 _Computational Tools & Software:_ RStudio, Jupyter notebooks, iPython, PsychoPy, Git, Atom, Qualtrics, Slurm, jsPsych.
 
 **Statistical Skills**  
-_Analyses:_ standard and generalized linear fixed-effects, mixed-effects, and additive modeling (incl. ordinal multilevel modeling) fitted using frequentist and Bayesian implementations; multivariate cluster analysis incl. hierarchical clustering (standard and bootstrapped), density-based clustering), dimensionality reduction (multidimensional scaling, principal components analysis); machine learning and classification analyses incl. support vector machine classification (with tuning, cross-validation).
+_Analyses:_ linear and generalized linear fixed-effects, mixed-effects, and additive modeling (incl. ordinal multilevel modeling) fitted using frequentist and Bayesian implementations; multivariate cluster analysis incl. hierarchical clustering (standard and bootstrapped), density-based clustering; dimensionality reduction (multidimensional scaling, principal components analysis); machine learning and classification analyses incl. support vector machine classification (with tuning, cross-validation).
 
 **Neuroimaging Skills**  
 _Functional MRI Scanning:_ Scanner operation and safety training (Philips 3.0 T Achieva Intera, Siemens PRISMA 3T).  
