@@ -14,6 +14,7 @@ _**Research interests:** computational and multivariate analysis of cognitive ne
 **_Harvard University_**, Cambridge, MA, _September 2018 - Present_  
 Ph.D. Candidate, Department of Psychology  
 Advisors: Mina Cikara, Ph.D., Joshua Greene, Ph.D.  
+Dissertation Title: _Representations of social and political attitudes, opinions, and facts in the mind and brain_
 
 **_Harvard University_**, Cambridge, MA, _March 2021_  
 A.M., Psychology  
@@ -27,6 +28,8 @@ _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2019). Decoding individual differences in STEM learning from functional MRI data. _Nature Communications_, 10(1), 2027. [https://doi.org/10.1038/s41467-019-10053-y](https://doi.org/10.1038/s41467-019-10053-y)
 
+Mair, P., **Cetron, J. S.**, Borg, I. (_In press_). Using Support Vector Machines for Facet Partitioning in Multidimensional Scaling. _Multivariate Behavioral Research_.
+
 Hayes, J. C., Alfred, K. L., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Individual differences in white and grey matter structure associated with verbal habits of thought. _Brain Research_, 1742, 146890. [https://doi.org/10.1016/j.brainres.2020.146890](https://doi.org/10.1016/j.brainres.2020.146890)
 
 Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Mental models use common neural spatial structure for spatial and abstract content. _Nature Communications Biology_, 3, 17. [https://doi.org/10.1038/s42003-019-0740-8](https://doi.org/10.1038/s42003-019-0740-8)
@@ -34,11 +37,11 @@ Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). M
 Alfred, K. L., Hayes, J. C., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Individual differences in encoded neural representations within cortical speech production network. _Brain Research_, 1726, 146483. [https://doi.org/10.1016/j.brainres.2019.146483](https://doi.org/10.1016/j.brainres.2019.146483)
 
 ## Current Projects
-**Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2021). Attitude importance, more than extremity, predicts costly intergroup behavior. _Under review_. Preprint available at [https://osf.io/xzpfu](https://osf.io/xzpfu). Preprint DOI: 10.31219/osf.io/xzpfu
+**Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2022). Attitude importance, more than extremity, predicts costly intergroup behavior. _Under review_. Preprint available at [https://osf.io/xzpfu](https://osf.io/xzpfu). Preprint DOI: 10.31219/osf.io/xzpfu
 
-**Cetron, J. S.**, Blair, J., Siegel, S., & Cikara, M. (2021). Understanding how opinions become represented as knowledge (and how to intervene). _In progress_.
+**Cetron, J. S.**, Blair, J., Siegel, S., & Cikara, M. (2022). Attitude features of political propositions predict factual and opinion judgments. _In progress_.  
 
-Borg, I., Mair, P., **Cetron, J. S.** (2021). Methods to identify partitions in MDS data space that correspond to facets in design space. _Under review_.
+**Cetron, J. S.**, Blair, J., & Cikara, M. (2022). Neural representations of factual and opinion statements. _In progress_.  
 
 Lees, J., **Cetron, J. S.**, Vollberg, M. C., Reggev, N., & Cikara, M. (2020). Intentions to comply with COVID-19 preventive behaviors are associated with personal beliefs, independent of perceived social norms. _Preprint_. Preprint available at [https://psyarxiv.com/97jry/](https://psyarxiv.com/97jry/). Preprint DOI: 10.31234/osf.io/97jry
 
@@ -55,6 +58,10 @@ Kean, L., Sen, S., Felder, M. A., Tangpricha, V., Adisa, O., JAMES-Herry, A., Bu
 Disease. _Blood_, 118(21), 1054. Retrieved from [http://www.bloodjournal.org/content/118/21/1054](http://www.bloodjournal.org/content/118/21/1054).
 
 ## Selected Honors, Awards, Fellowships, & Research Funding
+**Smith Fund Grant Awardee, Psychology Research Innovation Fund**
+_Harvard University, Cambridge, MA - January 2022_
+Award recipient for a $10,000 grant supporting research funds in collaboration with Prof. Joshua Greene.
+
 **National Science Foundation Graduate Research Fellow**  
 _National Science Foundation, 2019 - Present_  
 Award recipient for the NSF Graduate Research Fellowship Program (GRFP) beginning 2019.
@@ -64,7 +71,7 @@ _Harvard University, Cambridge, MA, September 2018 - Present_
 Awarded by the Harvard Graduate School of Arts and Sciences in special recognition of a commitment to public service and intellectual excellence. Nominated by the Harvard Department of Psychology.
 
 **Certificate of Distinction in Teaching, Derek Bok Center for Teaching and Learning**  
-_Harvard University, Cambridge, MA, Fall 2020_  
+_Harvard University, Cambridge, MA, Fall 2020, Fall 2021_  
 Award for teaching excellence in PSY 1950: Intermediate Statistical Analysis in Psychology.
 
 **Fellow, Kavli Summer Institute in Cognitive Neuroscience**  
@@ -116,10 +123,15 @@ Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, Kraemer, D. J. M. (2017, Marc
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Kraemer, D. J. M. (2016, April). The role of motor regions in representing engineering concepts. Poster presented at the annual meeting of the Cognitive Neuroscience Society, New York, NY.
 
 ## Teaching & Mentorship  
-**Teaching Fellow, PSY 1950: Intermediate Statistical Analysis in Psychology**  
-_Harvard University, Cambridge, MA, Fall 2020_  
+**Teaching Fellow, PSY 1952: Multivariate Analysis in Psychology**  
+_Harvard University, Cambridge, MA, Spring 2022_  
 Lead instructor: Patrick Mair  
-Teaching Fellow for the introductory graduate statistics course required of all Harvard Psychology doctoral students. Material covered: introduction to R statistical software, linear regression, mixed-effects modeling, and generalized linear (mixed-effect) models. Designed all laboratory materials and problem sets, teaching two weekly 90-minute sections providing individualized written feedback on assignments. In Fall 2020, all teaching was conducted over Zoom. Awarded the Derek Bok Center Certificate of Distinction in Teaching for instruction in this course.  
+Teaching Fellow for the required advanced graduate statistics course for Harvard Psychology doctoral students. Material covered: generalized additive models, path regression models, missing values analysis, advanced Bayesian regression modeling, causal inference. Designed all laboratory materials and problem sets, teaching weekly 90-minute sections providing individualized written feedback on assignments. 
+
+**Teaching Fellow, PSY 1950: Intermediate Statistical Analysis in Psychology**  
+_Harvard University, Cambridge, MA, Fall 2020, Fall 2021_  
+Lead instructor: Patrick Mair  
+Teaching Fellow for the introductory graduate statistics course required of all Harvard Psychology doctoral students. Material covered: introduction to R statistical software, linear regression, mixed-effects modeling, and generalized linear (mixed-effect) models. Designed all laboratory materials and problem sets, teaching two weekly 90-minute sections providing individualized written feedback on assignments. Awarded the Derek Bok Center Certificate of Distinction in Teaching on both occasions for instruction in this course.  
 
 **Research Advisor to Neuroscience Thesis Student**  
 _Harvard University, Cambridge, MA, Fall 2020 - Present_  
@@ -133,7 +145,7 @@ Collaborated with, supervised, and mentored a visiting undergraduate student (On
 
 ## Skills
 **Computational Skills**  
-_Programming Languages:_ R, Python (incl. SciPy, NumPy), Unix (bash, zsh), Markdown (incl. RMarkdown), Slurm cluster computing, minimal JavaScript (jsPsych).  
+_Programming Languages:_ Advanced R and Python for statistical modeling and data visualization, Unix shell scripting, Markdown, Slurm (high-performance cluster computing), basic JavaScript (jsPsych).  
 _Computational Tools & Software:_ RStudio, Jupyter notebooks, iPython, PsychoPy, Git, Atom, Qualtrics, Slurm, jsPsych.
 
 **Statistical Skills**  
@@ -141,7 +153,7 @@ _Analyses:_ linear and generalized linear fixed-effects, mixed-effects, and addi
 
 **Neuroimaging Skills**  
 _Functional MRI Scanning:_ Scanner operation and safety training (Philips 3.0 T Achieva Intera, Siemens PRISMA 3T).  
-_Neuroimaging Analysis Tools:_ AFNI (AFNI bootcamp certified), SUMA, FSL, FreeSurfer, PyMVPA.  
+_Neuroimaging Analysis Tools:_ AFNI, SUMA, FSL, FreeSurfer, fMRIPrep, PyMVPA.  
 _Neuroimaging Analysis Procedures:_ General linear modeling (subject- and group-level), whole-brain searchlight multivariate pattern analysis (MVPA), representational similarity analysis (RSA).
 
 **Other Skills**  
@@ -169,7 +181,7 @@ Advisor: Leslie Kean, M.D./Ph.D.
 
 ## Community Engagement & Leadership  
 **Inaugural Member, Harvard Psychology Departmental Climate Committee**  
-_Cambridge, MA, 2019 - Present_  
+_Cambridge, MA, 2019 - 2021_  
 Graduate student representative on the first committee to evaluate, address, and support the Psychology Department on issues relating to the departmental climate.
 
 **Committee Member, Harvard Psychology Graduate Mental Health Initiative**  
@@ -200,8 +212,8 @@ Associate Professor, Department of Psychology, Harvard University, Cambridge, MA
 **Joshua Greene, Ph.D.** | (617) 495-3898 | [jgreene@wjh.harvard.edu](mailto:jgreene@wjh.harvard.edu)  
 Professor, Department of Psychology, Harvard University, Cambridge, MA
 
+**Patrick Mair, Ph.D.** |  [mair@fas.harvard.edu](mailto:mair@fas.harvard.edu)  
+Senior Lecturer in Statistics, Department of Psychology, Harvard University, Cambridge, MA
+
 **David J. M. Kraemer, Ph.D.** | (603) 667-0472 | [david.j.m.kraemer@dartmouth.edu](mailto:david.j.m.kraemer@dartmouth.edu)  
 Associate Professor, Department of Education; Graduate Advisor, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH  
-
-**James V. Haxby, Ph.D.** | (603) 646-0038 | [james.v.haxby@dartmouth.edu](mailto:james.v.haxby@dartmouth.edu)  
-Evans Family Distinguished Professor, Department of Psychological and Brain Sciences Director, Center for Cognitive Neuroscience; Director, Dartmouth Brain Imaging Center, Dartmouth College, Hanover, NH  
