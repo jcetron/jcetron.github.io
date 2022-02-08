@@ -24,11 +24,11 @@ B.A., Neuroscience, High Honors, Minors in Education and Spanish
 _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 
 ## Peer-Reviewed Publications
+**Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2022). Attitude importance, more than extremity, predicts costly intergroup behavior. _Under review_. Preprint available at [https://osf.io/xzpfu](https://osf.io/xzpfu). Preprint DOI: 10.31219/osf.io/xzpfu
+
+Mair, P., **Cetron, J. S.**, & Borg, I. (2022). Using Support Vector Machines for Facet Partitioning in Multidimensional Scaling. _Multivariate Behavioral Research_, 0(0), 1–17. https://doi.org/10.1080/00273171.2022.2035207
+
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V.,&  Kraemer, D. J. M. (2020). Using the force: STEM knowledge and experience construct shared neural representations of engineering concepts. _Nature Partner Journals: Science of Learning_, 5, 6. [https://doi.org/10.1038/s41539-020-0065-x](https://doi.org/10.1038/s41539-020-0065-x)
-
-**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2019). Decoding individual differences in STEM learning from functional MRI data. _Nature Communications_, 10(1), 2027. [https://doi.org/10.1038/s41467-019-10053-y](https://doi.org/10.1038/s41467-019-10053-y)
-
-Mair, P., **Cetron, J. S.**, Borg, I. (_In press_). Using Support Vector Machines for Facet Partitioning in Multidimensional Scaling. _Multivariate Behavioral Research_.
 
 Hayes, J. C., Alfred, K. L., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Individual differences in white and grey matter structure associated with verbal habits of thought. _Brain Research_, 1742, 146890. [https://doi.org/10.1016/j.brainres.2020.146890](https://doi.org/10.1016/j.brainres.2020.146890)
 
@@ -36,22 +36,22 @@ Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). M
 
 Alfred, K. L., Hayes, J. C., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Individual differences in encoded neural representations within cortical speech production network. _Brain Research_, 1726, 146483. [https://doi.org/10.1016/j.brainres.2019.146483](https://doi.org/10.1016/j.brainres.2019.146483)
 
+**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2019). Decoding individual differences in STEM learning from functional MRI data. _Nature Communications_, 10(1), 2027. [https://doi.org/10.1038/s41467-019-10053-y](https://doi.org/10.1038/s41467-019-10053-y)
+
 ## Current Projects
-**Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2022). Attitude importance, more than extremity, predicts costly intergroup behavior. _Under review_. Preprint available at [https://osf.io/xzpfu](https://osf.io/xzpfu). Preprint DOI: 10.31219/osf.io/xzpfu
+**Cetron, J. S.**, Blair, J., Siegel, S., & Cikara, M. (_In progress_) Attitude features of political propositions predict factual and opinion judgments.
 
-**Cetron, J. S.**, Blair, J., Siegel, S., & Cikara, M. (2022). Attitude features of political propositions predict factual and opinion judgments. _In progress_.  
+**Cetron, J. S.**, Blair, J., & Cikara, M. (_In progress_). Neural representations of factual and opinion statements.
 
-**Cetron, J. S.**, Blair, J., & Cikara, M. (2022). Neural representations of factual and opinion statements. _In progress_.  
+**Cetron, J. S.**, Greene, J. D. (_In progress_). Social plate tectonics: Mapping pluralistic ignorance as a precursor to social change.
 
+**Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (_In progress_). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods.
+
+## Other Publications & Collaborations
 Lees, J., **Cetron, J. S.**, Vollberg, M. C., Reggev, N., & Cikara, M. (2020). Intentions to comply with COVID-19 preventive behaviors are associated with personal beliefs, independent of perceived social norms. _Preprint_. Preprint available at [https://psyarxiv.com/97jry/](https://psyarxiv.com/97jry/). Preprint DOI: 10.31234/osf.io/97jry
 
-**Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2021). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods. _In progress_.
+Peterson, E. M., Kolvoord, R. A., Kraemer, D. J. M., Weinberger, A. B., Uttal, D. H., Goldman, D., **Cetron, J. S.**, & Green, A. E. A neural test of concept mastery in geoscience through evaluation of neural representations. _Ongoing collaboration_.
 
-Peterson, E. M., Kolvoord, R. A., Kraemer, D. J. M., Weinberger, A. B., Uttal, D. H., Goldman, D., **Cetron, J. S.**, & Green, A. E. (2020). A neural test of concept mastery in geoscience through evaluation of neural representations. _In progress_.
-
-Nastase, S. A., Hayes, J. H., **Cetron, J. S.**, Green, A. E., Cross, E. S., Haxby, J. V., & Kraemer, D. J. M. (2020). Decoding perceptual retrieval: the influence of retrieval modality and task difficulty. _Manuscript in preparation_.
-
-## Other Publications
 **Cetron, J. S.**, & Dartmouth College. (2016). _The role of motor regions in representing engineering concepts_. (Senior Honors Thesis). Retrieved from Dartmouth College Library. (Control No. ocn953695823).
 
 Kean, L., Sen, S., Felder, M. A., Tangpricha, V., Adisa, O., JAMES-Herry, A., Buchanan, I., Ziegler, T., Alvarez, J., Beus, J., Worthington-White, D., Robertson, J., George, J., **Cetron, J.**, Ofori-Acquah, S. F., & Osunkwo, I. (2011). Evidence for Quantitative and Functional Immune Deviation in Pediatric Patients with Sickle Cell
