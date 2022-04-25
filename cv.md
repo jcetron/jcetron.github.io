@@ -70,7 +70,7 @@ Award recipient for the NSF Graduate Research Fellowship Program (GRFP) beginnin
 _Harvard University, Cambridge, MA, September 2018 - Present_  
 Awarded by the Harvard Graduate School of Arts and Sciences in special recognition of a commitment to public service and intellectual excellence. Nominated by the Harvard Department of Psychology.
 
-**Certificate of Distinction in Teaching, Derek Bok Center for Teaching and Learning**  
+**Certificates of Distinction in Teaching, Derek Bok Center for Teaching and Learning**  
 _Harvard University, Cambridge, MA, Fall 2020, Fall 2021_  
 Award for teaching excellence in PSY 1950: Intermediate Statistical Analysis in Psychology.
 
@@ -133,10 +133,10 @@ _Harvard University, Cambridge, MA, Fall 2020, Fall 2021_
 Lead instructor: Patrick Mair  
 Teaching Fellow for the introductory graduate statistics course required of all Harvard Psychology doctoral students. Material covered: introduction to R statistical software, linear regression, mixed-effects modeling, and generalized linear (mixed-effect) models. Designed all laboratory materials and problem sets, teaching two weekly 90-minute sections providing individualized written feedback on assignments. Awarded the Derek Bok Center Certificate of Distinction in Teaching on both occasions for instruction in this course.  
 
-**Research Advisor to Neuroscience Thesis Student**  
+**Research Advisor to Award-Winning Neuroscience Thesis Student**  
 _Harvard University, Cambridge, MA, Fall 2020 - Present_  
 Advisee: Jacob Blair  
-Collaborated with, supervised, and mentored a Harvard undergraduate neuroscience thesis student (Jacob Blair) beginning Fall 2020 to develop and initiate a research project on the psychological representations of opinion and factual statements. This research program will develop into a neuroimaging study and continue through 2021 and into 2022.
+Collaborated with, supervised, and mentored a Harvard undergraduate neuroscience thesis student (Jacob Blair) from Fall 2020 through Spring 2022 to develop and implement a research project on the psychological representations of opinion and factual statements. Jacob's resulting neuroscience honors thesis, _We Can't All Be Right: The Neural Correlates of Distinguishing Between Fact and Opinion Statements in a Political Context_, was awarded the inaugural Robert J. Glushko Undergraduate Thesis Prize in Cognitive Science by the Mind, Brain, and Behavior Interfaculty Initiative at Harvard.  
 
 **Research Advisor to NSF Leadership Alliance Student**  
 _Harvard University, Cambridge, MA, Summers 2019 & 2020_  
@@ -157,7 +157,7 @@ _Neuroimaging Analysis Tools:_ AFNI, SUMA, FSL, FreeSurfer, fMRIPrep, PyMVPA.
 _Neuroimaging Analysis Procedures:_ General linear modeling (subject- and group-level), whole-brain searchlight multivariate pattern analysis (MVPA), representational similarity analysis (RSA).
 
 **Other Skills**  
-_Media Processing:_ Audio editing, recording, and mastering (Logic Pro X), image manipulation (Photoshop, GIMP), video editing (DaVinci Resolve, Final Cut Express).  
+_Media Processing:_ Amateur audio editing, recording, and mixing (Logic Pro X), image editing (Photoshop, GIMP), video editing (DaVinci Resolve, Final Cut Express).  
 _Engineering:_ Electronics soldering, basic woodworking, amateur luthier.  
 _Language Skills:_ Fluent in Spanish.  
 _Musical Training:_ 20+ years of multi-instrumental training, songwriting, and performance experience.
