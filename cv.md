@@ -26,7 +26,7 @@ _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 ## Peer-Reviewed Publications
 **Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2022). Attitude importance, more than extremity, predicts costly intergroup behavior. _Under review_. Preprint available at [https://osf.io/xzpfu](https://osf.io/xzpfu). Preprint DOI: 10.31219/osf.io/xzpfu
 
-Mair, P., **Cetron, J. S.**, & Borg, I. (2022). Using Support Vector Machines for Facet Partitioning in Multidimensional Scaling. _Multivariate Behavioral Research_, 0(0), 1–17. https://doi.org/10.1080/00273171.2022.2035207
+Mair, P., **Cetron, J. S.**, & Borg, I. (2022). Using Support Vector Machines for Facet Partitioning in Multidimensional Scaling. _Multivariate Behavioral Research_, 0(0), 1–17. [https://doi.org/10.1080/00273171.2022.2035207](https://doi.org/10.1080/00273171.2022.2035207)
 
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V.,&  Kraemer, D. J. M. (2020). Using the force: STEM knowledge and experience construct shared neural representations of engineering concepts. _Nature Partner Journals: Science of Learning_, 5, 6. [https://doi.org/10.1038/s41539-020-0065-x](https://doi.org/10.1038/s41539-020-0065-x)
 
@@ -110,6 +110,8 @@ Talk title: "How opinions become represented as knowledge."
 Project co-authors: **Cetron, J. S.**, Blair, J., Siegel, S., & Cikara, M.
 
 ## Other Conference Presentations
+**Cetron, J.S.**, Blair, J., & Cikara, M. (2022, May). Psychological and neural representations of political attitudes, opinions, and facts. Virtual poster and 5-minute talk presented at the 2022 annual meeting of the Social and Affective Neuroscience Society (online virtual conference). Presentation URL: [https://www.youtube.com/watch?v=GcnB1cIglZM](https://www.youtube.com/watch?v=GcnB1cIglZM). Poster [PDF](https://github.com/jcetron/jcetron.github.io/raw/master/_data/cetron_poster_SANS_2022.pdf)
+
 **Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019, March). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods. Poster presented at the 2019 annual meeting of the Cognitive Neuroscience Society, San Francisco, CA.
 
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2018, March). A neural score for engineering concepts: predicting STEM learning with multivariate pattern analysis of functional neuroimaging data. Poster presented at the 2018 annual meeting of the Cognitive Neuroscience Society, Boston, MA.
@@ -123,6 +125,11 @@ Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, Kraemer, D. J. M. (2017, Marc
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Kraemer, D. J. M. (2016, April). The role of motor regions in representing engineering concepts. Poster presented at the annual meeting of the Cognitive Neuroscience Society, New York, NY.
 
 ## Teaching & Mentorship  
+**Research Advisor to Award-Winning Neuroscience Thesis Student**  
+_Harvard University, Cambridge, MA, Fall 2020 - Spring 2022  
+Advisee: Jacob Blair  
+Collaborated with, supervised, and mentored a Harvard undergraduate neuroscience thesis student (Jacob Blair) from Fall 2020 through Spring 2022 to develop and implement a research project on the psychological representations of opinion and factual statements. Jacob's resulting neuroscience honors thesis, _We Can't All Be Right: The Neural Correlates of Distinguishing Between Fact and Opinion Statements in a Political Context_, was awarded the 2022 Thomas Temple Hoopes Prize, a Harvard-wide award for excellent undergraduate work and excellence in the art of teaching, as well as the inaugural Robert J. Glushko Undergraduate Thesis Prize in Cognitive Science by the Mind, Brain, and Behavior Interfaculty Initiative at Harvard.  
+
 **Teaching Fellow, PSY 1952: Multivariate Analysis in Psychology**  
 _Harvard University, Cambridge, MA, Spring 2022_  
 Lead instructor: Patrick Mair  
@@ -132,11 +139,6 @@ Teaching Fellow for the required advanced graduate statistics course for Harvard
 _Harvard University, Cambridge, MA, Fall 2020, Fall 2021_  
 Lead instructor: Patrick Mair  
 Teaching Fellow for the introductory graduate statistics course required of all Harvard Psychology doctoral students. Material covered: introduction to R statistical software, linear regression, mixed-effects modeling, and generalized linear (mixed-effect) models. Designed all laboratory materials and problem sets, teaching two weekly 90-minute sections providing individualized written feedback on assignments. Awarded the Derek Bok Center Certificate of Distinction in Teaching on both occasions for instruction in this course.  
-
-**Research Advisor to Award-Winning Neuroscience Thesis Student**  
-_Harvard University, Cambridge, MA, Fall 2020 - Present_  
-Advisee: Jacob Blair  
-Collaborated with, supervised, and mentored a Harvard undergraduate neuroscience thesis student (Jacob Blair) from Fall 2020 through Spring 2022 to develop and implement a research project on the psychological representations of opinion and factual statements. Jacob's resulting neuroscience honors thesis, _We Can't All Be Right: The Neural Correlates of Distinguishing Between Fact and Opinion Statements in a Political Context_, was awarded the inaugural Robert J. Glushko Undergraduate Thesis Prize in Cognitive Science by the Mind, Brain, and Behavior Interfaculty Initiative at Harvard.  
 
 **Research Advisor to NSF Leadership Alliance Student**  
 _Harvard University, Cambridge, MA, Summers 2019 & 2020_  
