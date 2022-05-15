@@ -8,7 +8,7 @@ permalink: /cv/
 [jcetron@fas.harvard.edu](mailto:jcetron@fas.harvard.edu) • (404) 775-9793  
 1410 William James Hall, 33 Kirkland St., Cambridge, MA 02138
 
-_**Research interests:** computational and multivariate analysis of cognitive neuroimaging data (e.g., RSA, MVPA), neural basis of cognition and learning, applying neuroscience and psychology research to improve social, educational, and public health outcomes._  
+_**Research interests:** Applying neuroscience, psychology, and multivariate statistics to improve social, educational, and public health outcomes._  
 
 ## Education
 **_Harvard University_**, Cambridge, MA, _September 2018 - Present_  
@@ -26,17 +26,17 @@ _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 ## Peer-Reviewed Publications
 **Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2022). Attitude importance, more than extremity, predicts costly intergroup behavior. _Under review_. Preprint available at [https://osf.io/xzpfu](https://osf.io/xzpfu). Preprint DOI: 10.31219/osf.io/xzpfu
 
-Mair, P., **Cetron, J. S.**, & Borg, I. (2022). Using Support Vector Machines for Facet Partitioning in Multidimensional Scaling. _Multivariate Behavioral Research_, 0(0), 1–17. [https://doi.org/10.1080/00273171.2022.2035207](https://doi.org/10.1080/00273171.2022.2035207)
+Mair, P., **Cetron, J. S.**, & Borg, I. (2022). Using Support Vector Machines for Facet Partitioning in Multidimensional Scaling. _Multivariate Behavioral Research_, 0(0), 1–17. [https://doi.org/10.1080/00273171.2022.2035207](https://doi.org/10.1080/00273171.2022.2035207) ([PDF](https://docs.google.com/viewer?url=https://github.com/jcetron/jcetron.github.io/raw/master/_data/Mair_Cetron_Borg_2022_MBR.pdf))
 
-**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V.,&  Kraemer, D. J. M. (2020). Using the force: STEM knowledge and experience construct shared neural representations of engineering concepts. _Nature Partner Journals: Science of Learning_, 5, 6. [https://doi.org/10.1038/s41539-020-0065-x](https://doi.org/10.1038/s41539-020-0065-x)
+**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V.,&  Kraemer, D. J. M. (2020). Using the force: STEM knowledge and experience construct shared neural representations of engineering concepts. _Nature Partner Journals: Science of Learning_, 5, 6. [https://doi.org/10.1038/s41539-020-0065-x](https://doi.org/10.1038/s41539-020-0065-x) ([PDF](https://docs.google.com/viewer?url=https://github.com/jcetron/jcetron.github.io/raw/master/_data/Cetron_et_al_2020_npjSL.pdf))
 
-Hayes, J. C., Alfred, K. L., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Individual differences in white and grey matter structure associated with verbal habits of thought. _Brain Research_, 1742, 146890. [https://doi.org/10.1016/j.brainres.2020.146890](https://doi.org/10.1016/j.brainres.2020.146890)
+Hayes, J. C., Alfred, K. L., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Individual differences in white and grey matter structure associated with verbal habits of thought. _Brain Research_, 1742, 146890. [https://doi.org/10.1016/j.brainres.2020.146890](https://doi.org/10.1016/j.brainres.2020.146890) ([PDF](https://docs.google.com/viewer?url=https://github.com/jcetron/jcetron.github.io/raw/master/_data/Hayes_et_al_2020_BrainResearch.pdf))
 
-Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Mental models use common neural spatial structure for spatial and abstract content. _Nature Communications Biology_, 3, 17. [https://doi.org/10.1038/s42003-019-0740-8](https://doi.org/10.1038/s42003-019-0740-8)
+Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Mental models use common neural spatial structure for spatial and abstract content. _Nature Communications Biology_, 3, 17. [https://doi.org/10.1038/s42003-019-0740-8](https://doi.org/10.1038/s42003-019-0740-8) ([PDF](https://docs.google.com/viewer?url=https://github.com/jcetron/jcetron.github.io/raw/master/_data/Alfred_et_al_2020_NatCommsBio.pdf))
 
-Alfred, K. L., Hayes, J. C., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Individual differences in encoded neural representations within cortical speech production network. _Brain Research_, 1726, 146483. [https://doi.org/10.1016/j.brainres.2019.146483](https://doi.org/10.1016/j.brainres.2019.146483)
+Alfred, K. L., Hayes, J. C., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Individual differences in encoded neural representations within cortical speech production network. _Brain Research_, 1726, 146483. [https://doi.org/10.1016/j.brainres.2019.146483](https://doi.org/10.1016/j.brainres.2019.146483) ([PDF](https://docs.google.com/viewer?url=https://github.com/jcetron/jcetron.github.io/raw/master/_data/Alfred_et_al_2020_BrainResearch.pdf))
 
-**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2019). Decoding individual differences in STEM learning from functional MRI data. _Nature Communications_, 10(1), 2027. [https://doi.org/10.1038/s41467-019-10053-y](https://doi.org/10.1038/s41467-019-10053-y)
+**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2019). Decoding individual differences in STEM learning from functional MRI data. _Nature Communications_, 10(1), 2027. [https://doi.org/10.1038/s41467-019-10053-y](https://doi.org/10.1038/s41467-019-10053-y) ([PDF](https://docs.google.com/viewer?url=https://github.com/jcetron/jcetron.github.io/raw/master/_data/Cetron_et_al_2019_NatComm.pdf))
 
 ## Current Projects
 **Cetron, J. S.**, Blair, J., Siegel, S., & Cikara, M. (_In progress_) Attitude features of political propositions predict factual and opinion judgments.
@@ -110,7 +110,7 @@ Talk title: "How opinions become represented as knowledge."
 Project co-authors: **Cetron, J. S.**, Blair, J., Siegel, S., & Cikara, M.
 
 ## Other Conference Presentations
-**Cetron, J.S.**, Blair, J., & Cikara, M. (2022, May). Psychological and neural representations of political attitudes, opinions, and facts. Virtual poster and 5-minute talk presented at the 2022 annual meeting of the Social and Affective Neuroscience Society (online virtual conference). Presentation URL: [https://www.youtube.com/watch?v=GcnB1cIglZM](https://www.youtube.com/watch?v=GcnB1cIglZM). Poster [PDF](https://github.com/jcetron/jcetron.github.io/raw/master/_data/cetron_poster_SANS_2022.pdf)
+**Cetron, J.S.**, Blair, J., & Cikara, M. (2022, May). Psychological and neural representations of political attitudes, opinions, and facts. Virtual poster and 5-minute talk presented at the 2022 annual meeting of the Social and Affective Neuroscience Society (online virtual conference). Presentation URL: [https://www.youtube.com/watch?v=GcnB1cIglZM](https://www.youtube.com/watch?v=GcnB1cIglZM)
 
 **Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019, March). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods. Poster presented at the 2019 annual meeting of the Cognitive Neuroscience Society, San Francisco, CA.
 
