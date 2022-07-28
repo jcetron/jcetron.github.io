@@ -24,7 +24,7 @@ B.A., Neuroscience, High Honors, Minors in Education and Spanish
 _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 
 ## Peer-Reviewed Publications
-**Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2022). Attitude importance, more than extremity, predicts costly intergroup behavior. _Under review_. Preprint available at [https://osf.io/xzpfu](https://osf.io/xzpfu). Preprint DOI: 10.31219/osf.io/xzpfu
+**Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2022). Personal relevance of attitude importance predicts costly intergroup behavior. _Under review_. Preprint available at [https://osf.io/xzpfu](https://osf.io/xzpfu). Preprint DOI: 10.31219/osf.io/xzpfu
 
 Mair, P., **Cetron, J. S.**, & Borg, I. (2022). Using Support Vector Machines for Facet Partitioning in Multidimensional Scaling. _Multivariate Behavioral Research_, 0(0), 1–17. [https://doi.org/10.1080/00273171.2022.2035207](https://doi.org/10.1080/00273171.2022.2035207) ([PDF](https://docs.google.com/viewer?url=https://github.com/jcetron/jcetron.github.io/raw/master/_data/Mair_Cetron_Borg_2022_MBR.pdf))
 
@@ -71,8 +71,8 @@ _Harvard University, Cambridge, MA, September 2018 - Present_
 Awarded by the Harvard Graduate School of Arts and Sciences in special recognition of a commitment to public service and intellectual excellence. Nominated by the Harvard Department of Psychology.
 
 **Certificates of Distinction in Teaching, Derek Bok Center for Teaching and Learning**  
-_Harvard University, Cambridge, MA, Fall 2020, Fall 2021_  
-Award for teaching excellence in PSY 1950: Intermediate Statistical Analysis in Psychology.
+_Harvard University, Cambridge, MA, Fall 2020, Fall 2021, Spring 2022_  
+Award for teaching excellence in PSY 1950: Intermediate Statistical Analysis in Psychology and PSY 1952: Mutlivariate Analysis in Psychology. Received for award every semester of teaching.
 
 **Fellow, Kavli Summer Institute in Cognitive Neuroscience**  
 _University of California, Santa Barbara, Summer 2019_  
@@ -147,15 +147,15 @@ Collaborated with, supervised, and mentored a visiting undergraduate student (On
 
 ## Skills
 **Computational Skills**  
-_Programming Languages:_ Advanced R and Python for statistical modeling and data visualization, Unix shell scripting, Markdown, Slurm (high-performance cluster computing), basic JavaScript (jsPsych).  
-_Computational Tools & Software:_ RStudio, Jupyter notebooks, iPython, PsychoPy, Git, Atom, Qualtrics, Slurm, jsPsych.
+_Programming Languages:_ Advanced R and Python for statistical modeling and data visualization, Unix shell scripting, Markdown, Slurm (high-performance cluster computing).  
+_Computational Tools & Software:_ Posit (formerly RStudio), Jupyter notebooks, iPython, PsychoPy, Git, Atom, Qualtrics, Slurm.
 
 **Statistical Skills**  
 _Analyses:_ linear and generalized linear fixed-effects, mixed-effects, and additive modeling (incl. ordinal multilevel modeling) fitted using frequentist and Bayesian implementations; multivariate cluster analysis incl. hierarchical clustering (standard and bootstrapped), density-based clustering; dimensionality reduction (multidimensional scaling, principal components analysis); machine learning and classification analyses incl. support vector machine classification (with tuning, cross-validation).
 
 **Neuroimaging Skills**  
 _Functional MRI Scanning:_ Scanner operation and safety training (Philips 3.0 T Achieva Intera, Siemens PRISMA 3T).  
-_Neuroimaging Analysis Tools:_ AFNI, SUMA, FSL, FreeSurfer, fMRIPrep, PyMVPA.  
+_Neuroimaging Analysis Tools:_ AFNI, SUMA, FSL, FreeSurfer, fMRIPrep, nilearn, PyMVPA.  
 _Neuroimaging Analysis Procedures:_ General linear modeling (subject- and group-level), whole-brain searchlight multivariate pattern analysis (MVPA), representational similarity analysis (RSA).
 
 **Other Skills**  
