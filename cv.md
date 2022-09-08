@@ -72,7 +72,7 @@ Awarded by the Harvard Graduate School of Arts and Sciences in special recogniti
 
 **Certificates of Distinction in Teaching, Derek Bok Center for Teaching and Learning**  
 _Harvard University, Cambridge, MA, Fall 2020, Fall 2021, Spring 2022_  
-Award for teaching excellence in PSY 1950: Intermediate Statistical Analysis in Psychology and PSY 1952: Mutlivariate Analysis in Psychology. Received for award every semester of teaching.
+Award for teaching excellence in PSY 1950: Intermediate Statistical Analysis in Psychology and PSY 1952: Mutlivariate Analysis in Psychology. Received award for every semester of teaching.
 
 **Fellow, Kavli Summer Institute in Cognitive Neuroscience**  
 _University of California, Santa Barbara, Summer 2019_  
