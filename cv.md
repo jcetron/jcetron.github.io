@@ -43,8 +43,6 @@ Alfred, K. L., Hayes, J. C., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. 
 
 **Cetron, J. S.**, Blair, J., & Cikara, M. (_In progress_). Neural representations of factual and opinion statements.
 
-**Cetron, J. S.**, Greene, J. D. (_In progress_). Social plate tectonics: Mapping pluralistic ignorance as a precursor to social change.
-
 **Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (_In progress_). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods.
 
 ## Other Publications & Collaborations
@@ -58,10 +56,6 @@ Kean, L., Sen, S., Felder, M. A., Tangpricha, V., Adisa, O., JAMES-Herry, A., Bu
 Disease. _Blood_, 118(21), 1054. Retrieved from [http://www.bloodjournal.org/content/118/21/1054](http://www.bloodjournal.org/content/118/21/1054).
 
 ## Selected Honors, Awards, Fellowships, & Research Funding
-**Smith Fund Grant Awardee, Psychology Research Innovation Fund**
-_Harvard University, Cambridge, MA - January 2022_
-Award recipient for a $10,000 grant supporting research funds in collaboration with Prof. Joshua Greene.
-
 **National Science Foundation Graduate Research Fellow**  
 _National Science Foundation, 2019 - Present_  
 Award recipient for the NSF Graduate Research Fellowship Program (GRFP) beginning 2019.
