@@ -11,7 +11,7 @@ permalink: /cv/
 ## Education
 **_Harvard University_**, Cambridge, MA, _May 2023_  
 Ph.D., Psychology  
-Advisor: Mina Cikara, Ph.D.
+Advisor: Mina Cikara, Ph.D.  
 Dissertation Title: _Representations of social and political attitudes, opinions, and facts in the mind and brain_
 
 **_Harvard University_**, Cambridge, MA, _March 2021_  
