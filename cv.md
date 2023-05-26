@@ -201,7 +201,7 @@ Designed and implemented a month-long summer leadership program on social justic
 
 ## References
 **Mina Cikara, Ph.D.** | (617) 495-3819 | [mcikara@fas.harvard.edu](mailto:mcikara@fas.harvard.edu)  
-Associate Professor, Department of Psychology, Harvard University, Cambridge, MA  
+Professor, Department of Psychology, Harvard University, Cambridge, MA  
 
 **Joshua Greene, Ph.D.** | (617) 495-3898 | [jgreene@wjh.harvard.edu](mailto:jgreene@wjh.harvard.edu)  
 Professor, Department of Psychology, Harvard University, Cambridge, MA
