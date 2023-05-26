@@ -8,12 +8,10 @@ permalink: /cv/
 [jcetron@fas.harvard.edu](mailto:jcetron@fas.harvard.edu) • (404) 775-9793  
 1410 William James Hall, 33 Kirkland St., Cambridge, MA 02138
 
-_**Research interests:** Applying neuroscience, psychology, and multivariate statistics to improve social, educational, and public health outcomes._  
-
 ## Education
-**_Harvard University_**, Cambridge, MA, _September 2018 - Present_  
-Ph.D. Candidate, Department of Psychology  
-Advisors: Mina Cikara, Ph.D., Joshua Greene, Ph.D.  
+**_Harvard University_**, Cambridge, MA, _May 2023_  
+Ph.D., Psychology  
+Advisor: Mina Cikara, Ph.D.
 Dissertation Title: _Representations of social and political attitudes, opinions, and facts in the mind and brain_
 
 **_Harvard University_**, Cambridge, MA, _March 2021_  
