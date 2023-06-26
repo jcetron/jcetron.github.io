@@ -9,7 +9,7 @@ permalink: /cv/
 1410 William James Hall, 33 Kirkland St., Cambridge, MA 02138
 
 ## Current Position  
-**Data Science Specialist, Institute for Quantitative Social Science**
+**Data Science Specialist, Institute for Quantitative Social Science**  
 _Harvard University, Cambridge, MA, June 2023 - Present_  
 
 ## Education
