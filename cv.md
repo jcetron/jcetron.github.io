@@ -8,6 +8,10 @@ permalink: /cv/
 [jcetron@fas.harvard.edu](mailto:jcetron@fas.harvard.edu) • (404) 775-9793  
 1410 William James Hall, 33 Kirkland St., Cambridge, MA 02138
 
+## Current Position  
+**Data Science Specialist, Institute for Quantitative Social Science**
+_Harvard University, Cambridge, MA, June 2023 - Present_  
+
 ## Education
 **_Harvard University_**, Cambridge, MA, _May 2023_  
 Ph.D., Psychology  
