@@ -4,33 +4,42 @@ permalink: /cv/
 ---
 <div><a href="https://github.com/jcetron/jcetron.github.io/raw/master/_data/joshua_cetron_CV.pdf">Download PDF</a></div>
 
-# Joshua Satya Cetron | _Curriculum Vitae_  
-[jcetron@fas.harvard.edu](mailto:jcetron@fas.harvard.edu) • (404) 775-9793  
-1410 William James Hall, 33 Kirkland St., Cambridge, MA 02138
+# Joshua Satya Cetron, Ph.D. | _Curriculum Vitae_  
+### [jcetron@iq.harvard.edu](mailto:jcetron@iq.harvard.edu) | 1737 Cambridge St, Room K333, Cambridge, MA 02138 
+
+_Data scientist, quantitative social scientist, and research methodologist with a background in psychology, neuroscience, and multivariate statistics._
 
 ## Current Position  
 **Data Science Specialist, Institute for Quantitative Social Science**  
-_Harvard University, Cambridge, MA, June 2023 - Present_  
+Harvard University, Cambridge, MA, _June 2023 - Present_  
+Consultant on research methods and statistical analyses, collaboratively supporting Harvard and MIT faculty, staff, and students across the sciences. Specializing in experimental methods, exploratory data analysis, and generalized and multilevel regression modeling of empirical data in R and python. 
 
 ## Education
 **_Harvard University_**, Cambridge, MA, _May 2023_  
 Ph.D., Psychology  
 Advisor: Mina Cikara, Ph.D.  
+Dissertation Committee: Profs. Mina Cikara (chair), Joshua Greene, Talia Konkle, & Susanna Siegel
 Dissertation Title: _Representations of social and political attitudes, opinions, and facts in the mind and brain_
 
 **_Harvard University_**, Cambridge, MA, _March 2021_  
-A.M., Psychology  
+M.A., Psychology  
 
 **_Dartmouth College_**, Hanover, NH, _September 2012 - June 2016_  
 B.A., Neuroscience, High Honors, Minors in Education and Spanish  
 _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 
-## Peer-Reviewed Publications
-**Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2022). Personal relevance of attitude importance predicts costly intergroup behavior. _Under review_. Preprint available at [https://osf.io/xzpfu](https://osf.io/xzpfu). Preprint DOI: 10.31219/osf.io/xzpfu
+## Academic Publications & Preprints
+**Cetron, J. S.** (2023). _Representations of Social and Political Attitudes, Opinions, and Facts in the Mind and Brain_ (Order No. 30489198) [Doctoral dissertation, Harvard University]. ProQuest Dissertations & Theses Global. https://www.proquest.com/docview/2821571348/abstract/D2AB8D88CA7E495FPQ/1  
+
+**Cetron, J. S.**\*, Hillis, M. E.\*, Diamond, S. G., May, V. V., & Kraemer, D. J. M. (_Manuscript in preparation_). First-class learning: Neural patterns reflect students’ conceptual grasp following an introductory STEM lesson.  
+
+**Cetron, J. S.**, Mair, P., Haque, O., & Cikara, M. (2022). Personal relevance of attitude importance predicts costly intergroup behavior. _Preprint_. [https://osf.io/xzpfu](https://osf.io/xzpfu). Preprint DOI: 10.31219/osf.io/xzpfu  
 
 Mair, P., **Cetron, J. S.**, & Borg, I. (2022). Using Support Vector Machines for Facet Partitioning in Multidimensional Scaling. _Multivariate Behavioral Research_, 0(0), 1–17. [https://doi.org/10.1080/00273171.2022.2035207](https://doi.org/10.1080/00273171.2022.2035207) ([PDF](https://docs.google.com/viewer?url=https://github.com/jcetron/jcetron.github.io/raw/master/_data/Mair_Cetron_Borg_2022_MBR.pdf))
 
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V.,&  Kraemer, D. J. M. (2020). Using the force: STEM knowledge and experience construct shared neural representations of engineering concepts. _Nature Partner Journals: Science of Learning_, 5, 6. [https://doi.org/10.1038/s41539-020-0065-x](https://doi.org/10.1038/s41539-020-0065-x) ([PDF](https://docs.google.com/viewer?url=https://github.com/jcetron/jcetron.github.io/raw/master/_data/Cetron_et_al_2020_npjSL.pdf))
+
+Lees, J., **Cetron, J. S.**, Vollberg, M. C., Reggev, N., & Cikara, M. (2020). Intentions to comply with COVID-19 preventive behaviors are associated with personal beliefs, independent of perceived social norms. _Preprint_. Preprint available at [https://psyarxiv.com/97jry/](https://psyarxiv.com/97jry/). Preprint DOI: 10.31234/osf.io/97jry  
 
 Hayes, J. C., Alfred, K. L., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Individual differences in white and grey matter structure associated with verbal habits of thought. _Brain Research_, 1742, 146890. [https://doi.org/10.1016/j.brainres.2020.146890](https://doi.org/10.1016/j.brainres.2020.146890) ([PDF](https://docs.google.com/viewer?url=https://github.com/jcetron/jcetron.github.io/raw/master/_data/Hayes_et_al_2020_BrainResearch.pdf))
 
@@ -38,24 +47,9 @@ Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). M
 
 Alfred, K. L., Hayes, J. C., Pizzie, R. G., **Cetron, J. S.**, & Kraemer, D. J. M. (2020). Individual differences in encoded neural representations within cortical speech production network. _Brain Research_, 1726, 146483. [https://doi.org/10.1016/j.brainres.2019.146483](https://doi.org/10.1016/j.brainres.2019.146483) ([PDF](https://docs.google.com/viewer?url=https://github.com/jcetron/jcetron.github.io/raw/master/_data/Alfred_et_al_2020_BrainResearch.pdf))
 
-**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2019). Decoding individual differences in STEM learning from functional MRI data. _Nature Communications_, 10(1), 2027. [https://doi.org/10.1038/s41467-019-10053-y](https://doi.org/10.1038/s41467-019-10053-y) ([PDF](https://docs.google.com/viewer?url=https://github.com/jcetron/jcetron.github.io/raw/master/_data/Cetron_et_al_2019_NatComm.pdf))
+**Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (2019). Decoding individual differences in STEM learning from functional MRI data. _Nature Communications_, 10(1), 2027. [https://doi.org/10.1038/s41467-019-10053-y](https://doi.org/10.1038/s41467-019-10053-y) ([PDF](https://docs.google.com/viewer?url=https://github.com/jcetron/jcetron.github.io/raw/master/_data/Cetron_et_al_2019_NatComm.pdf))  
 
-## Current Projects
-**Cetron, J. S.**, Blair, J., Siegel, S., & Cikara, M. (_In progress_) Attitude features of political propositions predict factual and opinion judgments.
-
-**Cetron, J. S.**, Blair, J., & Cikara, M. (_In progress_). Neural representations of factual and opinion statements.
-
-**Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., & Kraemer, D. J. M. (_In progress_). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods.
-
-## Other Publications & Collaborations
-Lees, J., **Cetron, J. S.**, Vollberg, M. C., Reggev, N., & Cikara, M. (2020). Intentions to comply with COVID-19 preventive behaviors are associated with personal beliefs, independent of perceived social norms. _Preprint_. Preprint available at [https://psyarxiv.com/97jry/](https://psyarxiv.com/97jry/). Preprint DOI: 10.31234/osf.io/97jry
-
-Peterson, E. M., Kolvoord, R. A., Kraemer, D. J. M., Weinberger, A. B., Uttal, D. H., Goldman, D., **Cetron, J. S.**, & Green, A. E. A neural test of concept mastery in geoscience through evaluation of neural representations. _Ongoing collaboration_.
-
-**Cetron, J. S.**, & Dartmouth College. (2016). _The role of motor regions in representing engineering concepts_. (Senior Honors Thesis). Retrieved from Dartmouth College Library. (Control No. ocn953695823).
-
-Kean, L., Sen, S., Felder, M. A., Tangpricha, V., Adisa, O., JAMES-Herry, A., Buchanan, I., Ziegler, T., Alvarez, J., Beus, J., Worthington-White, D., Robertson, J., George, J., **Cetron, J.**, Ofori-Acquah, S. F., & Osunkwo, I. (2011). Evidence for Quantitative and Functional Immune Deviation in Pediatric Patients with Sickle Cell
-Disease. _Blood_, 118(21), 1054. Retrieved from [http://www.bloodjournal.org/content/118/21/1054](http://www.bloodjournal.org/content/118/21/1054).
+**Cetron, J. S.**, & Dartmouth College. (2016). _The role of motor regions in representing engineering concepts_. (Senior Honors Thesis). Retrieved from Dartmouth College Library. (Control No. ocn953695823).  
 
 ## Selected Honors, Awards, Fellowships, & Research Funding
 **National Science Foundation Graduate Research Fellow**  
@@ -98,15 +92,10 @@ Annual award recognizing students in the top 5% of their class each academic yea
 _Dartmouth College, Hanover, NH, September 2013 - March 2014_  
 Funded second-year undergraduate research assistantship for two academic terms.
 
-## Invited Talks & Symposium Presentations
-**Invited Symposium Talk: Psychology of Knowledge and Opinion**  
-_Southern Society for Philosophy and Psychology Annual Meeting_  
-_Virtual Conference (due to COVID-19), December 3-5, 2020_  
-Talk title: "How opinions become represented as knowledge."  
-Project co-authors: **Cetron, J. S.**, Blair, J., Siegel, S., & Cikara, M.
+## Conference Presentations
+**Cetron, J.S.**, Blair, J., & Cikara, M. (2022, May). Psychological and neural representations of political attitudes, opinions, and facts. Virtual poster and 5-minute talk presented at the 2022 annual meeting of the Social and Affective Neuroscience Society (online virtual conference). Presentation URL: [https://www.youtube.com/watch?v=GcnB1cIglZM](https://www.youtube.com/watch?v=GcnB1cIglZM)  
 
-## Other Conference Presentations
-**Cetron, J.S.**, Blair, J., & Cikara, M. (2022, May). Psychological and neural representations of political attitudes, opinions, and facts. Virtual poster and 5-minute talk presented at the 2022 annual meeting of the Social and Affective Neuroscience Society (online virtual conference). Presentation URL: [https://www.youtube.com/watch?v=GcnB1cIglZM](https://www.youtube.com/watch?v=GcnB1cIglZM)
+**Cetron, J. S.**, Blair, J., Siegel, S., & Cikara, M. (2020, December). How opinions become represented as knowledge. Invited talk for the Psychology of Knowledge and Opinion symposium at the Southern Society for Philosophy and Psychology Annual Meeting (virtual conference due to COVID-19).  
 
 **Cetron, J. S.**, Hayes, J.C., Connolly, A. C., Diamond, S. G., May, V. V., Haxby, J. V., Kraemer, D. J. M. (2019, March). Comparing neural and behavioral representations of engineering concept learning for lab-based and computer-based instructional methods. Poster presented at the 2019 annual meeting of the Cognitive Neuroscience Society, San Francisco, CA.
 
@@ -119,6 +108,8 @@ Alfred, K. L., Connolly, A. C., **Cetron, J. S.**, Kraemer, D. J. M. (2017, Marc
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Kraemer, D. J. M. (2016, May). The role of motor regions in representing engineering concepts. Poster presented at the inaugural meeting of the Psychonomics Society International, Granada, Spain.
 
 **Cetron, J. S.**, Connolly, A. C., Diamond, S. G., May, V. V., Kraemer, D. J. M. (2016, April). The role of motor regions in representing engineering concepts. Poster presented at the annual meeting of the Cognitive Neuroscience Society, New York, NY.
+
+Kean, L., Sen, S., Felder, M. A., Tangpricha, V., Adisa, O., JAMES-Herry, A., Buchanan, I., Ziegler, T., Alvarez, J., Beus, J., Worthington-White, D., Robertson, J., George, J., **Cetron, J.**, Ofori-Acquah, S. F., & Osunkwo, I. (2011). Evidence for Quantitative and Functional Immune Deviation in Pediatric Patients with Sickle Cell Disease. _Blood_, 118(21), 1054. Contributed to basic data analysis for poster as a research intern. Retrieved from [http://www.bloodjournal.org/content/118/21/1054](http://www.bloodjournal.org/content/118/21/1054).  
 
 ## Teaching & Mentorship  
 **Research Advisor to Award-Winning Neuroscience Thesis Student**  
@@ -161,15 +152,15 @@ _Language Skills:_ Fluent in Spanish.
 _Musical Training:_ 20+ years of multi-instrumental training, songwriting, and performance experience.
 
 ## Research Experience
-**Ph.D. Candidate, Harvard Intergroup Neuroscience Lab**  
-_Harvard University, Cambridge, MA, September 2018 - Present_  
+**Doctoral Student, Harvard Intergroup Neuroscience Lab**  
+_Harvard University, Cambridge, MA, September 2018 - May 2023_  
 Advisors: Mina Cikara, Ph.D., Joshua Greene, Ph.D.
 
 **Post-Baccalaureate Researcher and Lab Manager, Cognitive Neuroscience of Learning Lab**  
 _Dartmouth College, Hanover, NH, September 2016 - September 2018_  
 Advisor: David J. M. Kraemer, Ph.D.
 
-**Undergraduate Research Assistant, Cognitive Neuroscience of Learning Lab**  
+**Undergraduate Research Assistant & Honors Thesis Student, Cognitive Neuroscience of Learning Lab**  
 _Dartmouth College, Hanover, NH, July 2013 - June 2016_  
 Advisor: David J. M. Kraemer, Ph.D.
 
@@ -204,14 +195,17 @@ _Lester B. Pearson United World College of the Pacific, Victoria, B.C., Canada, 
 Designed and implemented a month-long summer leadership program on social justice, global citizenship, environmental sustainability, and community-building for 100 high school students from 20+ countries, alongside 16 other facilitators and 8 program coordinators.
 
 ## References
-**Mina Cikara, Ph.D.** | (617) 495-3819 | [mcikara@fas.harvard.edu](mailto:mcikara@fas.harvard.edu)  
+**Steven Worthington, Ph.D.** | [sworthington@iq.harvard.edu](mailto:sworthington@iq.harvard.edu)
+Director of Data Science Services, Institute for Quantitative Social Science, Harvard University, Cambridge, MA
+
+**Mina Cikara, Ph.D.** | [mcikara@fas.harvard.edu](mailto:mcikara@fas.harvard.edu)  
 Professor, Department of Psychology, Harvard University, Cambridge, MA  
 
-**Joshua Greene, Ph.D.** | (617) 495-3898 | [jgreene@wjh.harvard.edu](mailto:jgreene@wjh.harvard.edu)  
+**Joshua Greene, Ph.D.** | [jgreene@wjh.harvard.edu](mailto:jgreene@wjh.harvard.edu)  
 Professor, Department of Psychology, Harvard University, Cambridge, MA
 
-**Patrick Mair, Ph.D.** |  [mair@fas.harvard.edu](mailto:mair@fas.harvard.edu)  
+**Patrick Mair, Ph.D.** | [mair@fas.harvard.edu](mailto:mair@fas.harvard.edu)  
 Senior Lecturer in Statistics, Department of Psychology, Harvard University, Cambridge, MA
 
-**David J. M. Kraemer, Ph.D.** | (603) 667-0472 | [david.j.m.kraemer@dartmouth.edu](mailto:david.j.m.kraemer@dartmouth.edu)  
-Associate Professor, Department of Education; Graduate Advisor, Department of Psychological and Brain Sciences, Dartmouth College, Hanover, NH  
+**David J. M. Kraemer, Ph.D.** | [david.j.m.kraemer@dartmouth.edu](mailto:david.j.m.kraemer@dartmouth.edu)  
+Associate Professor, Department of Psychological and Brain Sciences; Chair, Cognitive Science Program, Dartmouth College, Hanover, NH  
