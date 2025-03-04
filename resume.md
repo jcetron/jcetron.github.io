@@ -26,12 +26,13 @@ _Harvard University, Cambridge, MA, September 2018 - May 2023_
 - Received multiple honors and awards as a doctoral student, including the Harvard Graduate School of Arts and Sciences Presidential Scholorship, the highly selective National Science Foundation Graduate Research Fellowship grant, and multiple teaching awards.
 
 **Teaching Fellow, Graduate-level Statistics**  
-_Harvard University, Cambridge, MA, 2020 - 2022_  
+_Harvard University, Cambridge, MA, 2020 - 2024_  
 - Lead instructor: Prof. Patrick Mair  
-- Courses: Intermediate Statistical Analysis in Psychology and Multivariate Analysis in Psychology, required graduate statistics courses for Harvard doctoral students in psychology and related social sciences.
-- Designed all laboratory materials (lectures, practical demonstrations) and problem sets, teaching 1-2 weekly 90-minute sections providing individualized written feedback on assignments. 
-- Material covered: introduction to R statistical software, linear regression, mixed-effects modeling, generalized linear (mixed-effect) models, generalized additive models, path regression models, missing values analysis, advanced Bayesian regression modeling, causal inference. 
-- Awarded the Derek Bok Center Certificate of Distinction in Teaching for each of my 3 semesters of teaching  
+- Courses: Intermediate Statistical Analysis in Psychology, Multivariate Analysis in Psychology, Advanced Statistical Modeling. Intermediate and advanced graduate statistics courses for Harvard doctoral students in psychology and the social sciences.
+- Designed laboratory materials (lectures, practical demonstrations) and problem sets, taught 1-2 weekly 90-minute sections, provided individualized written feedback on assignments. 
+- Material covered: introduction to R statistical software; regression modeling at all levels of complexity (including LMMs and GLM(M)s, GAMs, path regression models, robust and resistant regression, and mixture regression) across both frequentist and Bayesian modeling frameworks; cluster analysis; hidden markov models; longitudinal and time series models; regularization (LASSO, Ridge), model-based recursive partitioning; causal inference.
+- Awarded the Derek Bok Center Certificate of Distinction in Teaching for each of my 3 semesters of teaching as a doctoral student.
+- Continued teaching advanced course after receiving my doctorate at the special request of the lead instructor.  
 
 **Research Advisor to Undergraduate Student Researchers**  
 _Harvard University, Cambridge, MA, 2019 - 2022_  

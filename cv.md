@@ -117,6 +117,11 @@ _Harvard University, Cambridge, MA, Fall 2020 - Spring 2022_
 Advisee: Jacob Blair  
 Collaborated with, supervised, and mentored a Harvard undergraduate neuroscience thesis student (Jacob Blair) from Fall 2020 through Spring 2022 to develop and implement a research project on the psychological representations of opinion and factual statements. Jacob's resulting neuroscience honors thesis, _We Can't All Be Right: The Neural Correlates of Distinguishing Between Fact and Opinion Statements in a Political Context_, was awarded the 2022 Thomas Temple Hoopes Prize, a Harvard-wide award for excellent undergraduate work and excellence in the art of teaching, as well as the inaugural Robert J. Glushko Undergraduate Thesis Prize in Cognitive Science by the Mind, Brain, and Behavior Interfaculty Initiative at Harvard.  
 
+**Teaching Fellow, PSY 2035: Advanced Statistical Modeling**  
+_Harvard University, Cambridge, MA, Fall 2024_  
+Lead instructor: Patrick Mair  
+Teaching Fellow for advanced graduate statistics elective for Harvard Psychology doctoral students. Material covered: Robust and resistant regression models, cluster analysis, mixture modeling, hidden markov models, longitudinal and time series models, regularization, model-based recursive partitioning, causal inference. Designed all laboratory materials, teaching two weekly 90-minute sections providing.
+
 **Teaching Fellow, PSY 1952: Multivariate Analysis in Psychology**  
 _Harvard University, Cambridge, MA, Spring 2022_  
 Lead instructor: Patrick Mair  
