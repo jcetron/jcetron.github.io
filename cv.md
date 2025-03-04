@@ -29,7 +29,7 @@ B.A., Neuroscience, High Honors, Minors in Education and Spanish
 _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 
 ## Academic Publications & Preprints
-**Cetron, J. S.** (2023). _Representations of Social and Political Attitudes, Opinions, and Facts in the Mind and Brain_ (Order No. 30489198) [Doctoral dissertation, Harvard University]. ProQuest Dissertations & Theses Global. https://www.proquest.com/docview/2821571348/abstract/D2AB8D88CA7E495FPQ/1  
+**Cetron, J. S.** (2023). _Representations of Social and Political Attitudes, Opinions, and Facts in the Mind and Brain_ (Order No. 30489198) [Doctoral dissertation, Harvard University]. ProQuest Dissertations & Theses Global. [https://www.proquest.com/docview/2821571348/abstract/D2AB8D88CA7E495FPQ/1](https://www.proquest.com/docview/2821571348/abstract/D2AB8D88CA7E495FPQ/1)  
 
 **Cetron, J. S.**\*, Hillis, M. E.\*, Diamond, S. G., May, V. V., & Kraemer, D. J. M. (_Manuscript in preparation_). First-class learning: Neural patterns reflect students’ conceptual grasp following an introductory STEM lesson.  
 
