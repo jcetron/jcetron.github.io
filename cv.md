@@ -154,7 +154,7 @@ _Neuroimaging Analysis Procedures:_ General linear modeling (subject- and group-
 _Media Processing:_ Amateur audio editing, recording, and mixing (Logic Pro X), image editing (Photoshop, GIMP), video editing (DaVinci Resolve, Final Cut Express).  
 _Engineering:_ Electronics soldering, basic woodworking, amateur luthier.  
 _Language Skills:_ Fluent in Spanish.  
-_Musical Training:_ 20+ years of multi-instrumental training, songwriting, and performance experience.
+_Musical Training:_ 25+ years of multi-instrumental training, songwriting, and performance experience.
 
 ## Research Experience
 **Doctoral Student, Harvard Intergroup Neuroscience Lab**  
