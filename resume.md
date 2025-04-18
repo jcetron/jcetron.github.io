@@ -23,7 +23,7 @@ _Harvard University, Cambridge, MA, September 2018 - May 2023_
 - Developed and implemented a research program investigating the psychological and neural representations of social and political information, using methods from neuroscience, psychology, philosophy, and statistics.
 - Directed and conducted all aspects of the research program, including experiment design, data collection, statistical analysis of survey and neuroimaging data, data visualization and presentation, and manuscript preparation for written dissertation.
 - Developed specialized multivariate statistical methods in collaboration with statistician Patrick Mair  
-- Received multiple honors and awards as a doctoral student, including the Harvard Graduate School of Arts and Sciences Presidential Scholorship, the highly selective National Science Foundation Graduate Research Fellowship grant, and multiple teaching awards.
+- Received multiple honors and awards as a doctoral student, including the Harvard Graduate School of Arts and Sciences Presidential Scholarship, the highly selective National Science Foundation Graduate Research Fellowship grant, and multiple teaching awards.
 
 **Teaching Fellow, Graduate-level Statistics**  
 _Harvard University, Cambridge, MA, 2020 - 2024_  
