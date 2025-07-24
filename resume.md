@@ -5,7 +5,7 @@ permalink: /resume/
 <div><a href="https://github.com/jcetron/jcetron.github.io/raw/master/_data/joshua_cetron_resume.pdf">Download PDF</a></div>
 
 # Joshua Satya Cetron, Ph.D. | _Resume_  
-### [jcetron@iq.harvard.edu](mailto:jcetron@iq.harvard.edu) | 1737 Cambridge St, Room K333, Cambridge, MA 02138 
+### jcetron [@] iq.harvard.edu | 1737 Cambridge St, Cambridge, MA 02138 
 
 _Data scientist, quantitative social scientist, and research methodologist with a background in psychology, neuroscience, and multivariate statistics._
 
