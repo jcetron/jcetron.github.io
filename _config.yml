@@ -86,3 +86,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+
+## custom excerpt separator to allow for more than one paragraph
+excerpt_separator: "<!--more-->" # Use this to separate the excerpt from the rest of the post
