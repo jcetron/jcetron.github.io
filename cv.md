@@ -135,7 +135,7 @@ Teaching Fellow for the introductory graduate statistics course required of all 
 **Research Advisor to NSF Leadership Alliance Student**  
 _Harvard University, Cambridge, MA, Summers 2019 & 2020_  
 Advisee: Onyul Haque  
-Collaborated with, supervised, and mentored a visiting undergraduate student (Onyul Hauqe) for two consecutive summers in the development, administration, analysis, and presentation of a new research project on intergroup attitude importance, culminating in a manuscript that has been submitted for peer-reviewed publication (see Current Projects above). Student also presented work at a national conference each summer.
+Collaborated with, supervised, and mentored a visiting undergraduate student (Onyul Hauqe) for two consecutive summers in the development, administration, analysis, and presentation of a new research project on intergroup attitude importance, culminating in a manuscript that has been submitted for peer-reviewed publication. Student also presented work at a national conference each summer.
 
 ## Skills
 **Computational Skills**  
