@@ -29,7 +29,9 @@ B.A., Neuroscience, High Honors, Minors in Education and Spanish
 _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 
 ## Academic Publications & Preprints
-**Cetron, J. S.**\*, Hillis, M. E.\*, Diamond, S. G., May, V. V., & Kraemer, D. J. M. (_Under Review_). First-class learning: Neural patterns reflect students’ conceptual grasp following an introductory STEM lesson.  
+**Cetron, J. S.**\*, Hillis, M. E.\*, Diamond, S. G., May, V. V., & Kraemer, D. J. M. (_Accepted_). First-class learning: Neural patterns reflect students’ conceptual grasp following an introductory STEM lesson. _Nature Partner Journals: Science of Learning._  
+
+Gause, E. L., Spangler, K. R., Clifford, H., Hoenig, M., **Cetron, J. S.**, Popp, Z., Audirac, M., Goldman, J., Nori-Sarma, A., Dominici, F., Wellenius, G., Braun, D., & Lane, K. (_Accepted_). Data Needs for Accelerating Research at the Intersection of Climate Stressors and Health: an online survey. _Environmental Research: Health._
 
 **Cetron, J. S.** (2023). _Representations of Social and Political Attitudes, Opinions, and Facts in the Mind and Brain_ (Order No. 30489198) [Doctoral dissertation, Harvard University]. ProQuest Dissertations & Theses Global. [https://www.proquest.com/docview/2821571348/abstract/D2AB8D88CA7E495FPQ/1](https://www.proquest.com/docview/2821571348/abstract/D2AB8D88CA7E495FPQ/1)  
 
@@ -174,6 +176,10 @@ _Emory University and Yerkes International Primate Research Center, Atlanta, GA,
 Advisor: Leslie Kean, M.D./Ph.D.
 
 ## Community Engagement & Leadership  
+**Conference Committee Member, Boston Area Research Initiative**
+_Boston, MA, 2024-2026_
+Harvard IQSS representative on the organizing committee to plan and run the annual meeting of the Boston Area Research Initiative conference: Greater Boston’s Annual Insight-to-Impact Summit.
+
 **Inaugural Member, Harvard Psychology Departmental Climate Committee**  
 _Cambridge, MA, 2019 - 2021_  
 Graduate student representative on the first committee to evaluate, address, and support the Psychology Department on issues relating to the departmental climate.
