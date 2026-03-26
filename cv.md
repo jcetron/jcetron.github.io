@@ -29,9 +29,9 @@ B.A., Neuroscience, High Honors, Minors in Education and Spanish
 _Summa Cum Laude_, Phi Beta Kappa, GPA: 3.92
 
 ## Academic Publications & Preprints
-**Cetron, J. S.**\*, Hillis, M. E.\*, Diamond, S. G., May, V. V., & Kraemer, D. J. M. (_Accepted_). First-class learning: Neural patterns reflect students’ conceptual grasp following an introductory STEM lesson. _Nature Partner Journals: Science of Learning._  
+**Cetron, J. S.**\*, Hillis, M. E.\*, Diamond, S. G., May, V. V., & Kraemer, D. J. M. (2026). First-class learning: Neural patterns reflect students’ conceptual grasp following an introductory STEM lesson. _Nature Partner Journals: Science of Learning._ [https://doi.org/10.1038/s41539-025-00394-3](https://doi.org/10.1038/s41539-025-00394-3)  
 
-Gause, E. L., Spangler, K. R., Clifford, H., Hoenig, M., **Cetron, J. S.**, Popp, Z., Audirac, M., Goldman, J., Nori-Sarma, A., Dominici, F., Wellenius, G., Braun, D., & Lane, K. (_Accepted_). Data Needs for Accelerating Research at the Intersection of Climate Stressors and Health: an online survey. _Environmental Research: Health._
+Gause, E. L., Spangler, K. R., Clifford, H., Hoenig, M., **Cetron, J. S.**, Popp, Z., Audirac, M., Goldman, J., Nori-Sarma, A., Dominici, F., Wellenius, G., Braun, D., & Lane, K. (2026). Data Needs for Accelerating Research at the Intersection of Climate Stressors and Health: an online survey. _Environmental Research: Health._ [https://doi.org/10.1088/2752-5309/ae44c0](https://doi.org/10.1088/2752-5309/ae44c0)  
 
 **Cetron, J. S.** (2023). _Representations of Social and Political Attitudes, Opinions, and Facts in the Mind and Brain_ (Order No. 30489198) [Doctoral dissertation, Harvard University]. ProQuest Dissertations & Theses Global. [https://www.proquest.com/docview/2821571348/abstract/D2AB8D88CA7E495FPQ/1](https://www.proquest.com/docview/2821571348/abstract/D2AB8D88CA7E495FPQ/1)  
 
