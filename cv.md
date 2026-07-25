@@ -145,7 +145,7 @@ _Programming Languages:_ Advanced R and Python for statistical modeling and data
 _Computational Tools & Software:_ Posit (formerly RStudio), Jupyter notebooks, iPython, PsychoPy, Git, Atom, Qualtrics, Slurm.
 
 **Statistical Skills**  
-_Analyses:_ linear and generalized linear fixed-effects, mixed-effects, and additive modeling (incl. ordinal multilevel modeling) fitted using frequentist and Bayesian implementations; multivariate cluster analysis incl. hierarchical clustering (standard and bootstrapped), density-based clustering; dimensionality reduction (multidimensional scaling, principal components analysis); machine learning and classification analyses incl. support vector machine classification (with tuning, cross-validation).
+_Analyses:_ linear and generalized linear fixed-effects, mixed-effects, and additive modeling (incl. ordinal multilevel modeling) fitted using frequentist and Bayesian implementations; multivariate cluster analysis incl. hierarchical clustering (standard and bootstrapped), density-based clustering; dimensionality reduction (multidimensional scaling, principal components analysis); machine learning and classification analyses incl. support vector machine classification (with tuning, cross-validation).  
 
 **Neuroimaging Skills**  
 _Functional MRI Scanning:_ Scanner operation and safety training (Philips 3.0 T Achieva Intera, Siemens PRISMA 3T).  
@@ -153,12 +153,16 @@ _Neuroimaging Analysis Tools:_ AFNI, SUMA, FSL, FreeSurfer, fMRIPrep, nilearn, P
 _Neuroimaging Analysis Procedures:_ General linear modeling (subject- and group-level), whole-brain searchlight multivariate pattern analysis (MVPA), representational similarity analysis (RSA).
 
 **Other Skills**  
-_Media Processing:_ Amateur audio editing, recording, and mixing (Logic Pro X), image editing (Photoshop, GIMP), video editing (DaVinci Resolve, Final Cut Express).  
-_Engineering:_ Electronics soldering, basic woodworking, amateur luthier.  
 _Language Skills:_ Fluent in Spanish.  
 _Musical Training:_ 25+ years of multi-instrumental training, songwriting, and performance experience.
+_Media Processing:_ Amateur audio editing, recording, and mixing (Logic Pro X), image editing (Photoshop, GIMP), video editing (DaVinci Resolve, Final Cut Express).  
+_Engineering:_ Electronics soldering, basic woodworking, amateur luthier.  
 
 ## Research Experience
+**Data Management Expert, CAFE RCC for Health & Extreme Weather**  
+_Harvard University and Boston University, June 2023 - Present_  
+Senior member of the Data Management Function for the CAFE Research Coordinating Center for Health and Extreme Weather, an NIH-funded center based at Boston University School of Public Health and the Harvard T.H. Chan School of Public Health. Built and maintain a multi-platform system for sharing data and code, analysis tutorials, and translational research expertise among the health and extreme weather research community of practice.  
+
 **Doctoral Student, Harvard Intergroup Neuroscience Lab**  
 _Harvard University, Cambridge, MA, September 2018 - May 2023_  
 Advisors: Mina Cikara, Ph.D., Joshua Greene, Ph.D.
