@@ -213,14 +213,14 @@ Designed and implemented a month-long summer leadership program on social justic
 **Steven Worthington, Ph.D.** | [sworthington@iq.harvard.edu](mailto:sworthington@iq.harvard.edu)
 Director of Data Science Services, Institute for Quantitative Social Science, Harvard University, Cambridge, MA
 
+**Patrick Mair, Ph.D.** | [mair@fas.harvard.edu](mailto:mair@fas.harvard.edu)  
+Senior Lecturer in Statistics, Department of Psychology, Harvard University, Cambridge, MA
+
 **Mina Cikara, Ph.D.** | [mcikara@fas.harvard.edu](mailto:mcikara@fas.harvard.edu)  
 Professor, Department of Psychology, Harvard University, Cambridge, MA  
 
 **Joshua Greene, Ph.D.** | [jgreene@wjh.harvard.edu](mailto:jgreene@wjh.harvard.edu)  
 Professor, Department of Psychology, Harvard University, Cambridge, MA
-
-**Patrick Mair, Ph.D.** | [mair@fas.harvard.edu](mailto:mair@fas.harvard.edu)  
-Senior Lecturer in Statistics, Department of Psychology, Harvard University, Cambridge, MA
 
 **David J. M. Kraemer, Ph.D.** | [david.j.m.kraemer@dartmouth.edu](mailto:david.j.m.kraemer@dartmouth.edu)  
 Associate Professor, Department of Psychological and Brain Sciences; Chair, Cognitive Science Program, Dartmouth College, Hanover, NH  
