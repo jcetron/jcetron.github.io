@@ -5,14 +5,14 @@ permalink: /cv/
 <div><a href="https://github.com/jcetron/jcetron.github.io/raw/master/_data/joshua_cetron_CV.pdf">Download PDF</a></div>
 
 # Joshua Satya Cetron, Ph.D. | _Curriculum Vitae_  
-### jcetron [@] iq.harvard.edu | 1737 Cambridge St, Cambridge, MA 02138 
-
+jcetron [@] iq.harvard.edu  
+  
 _Data scientist, quantitative social scientist, and research methodologist with a background in psychology, neuroscience, and multivariate statistics._
 
 ## Current Position  
 **Data Science Specialist, Institute for Quantitative Social Science**  
-Harvard University, Cambridge, MA, _June 2023 - Present_  
-Consultant on research methods and statistical analyses, collaboratively supporting Harvard and MIT faculty, staff, and students across the sciences. Specializing in experimental methods, exploratory data analysis, and generalized and multilevel regression modeling of empirical data in R and python. 
+_Harvard University, Cambridge, MA, June 2023 - Present_  
+Consultant on research methods and statistical analyses, collaboratively supporting Harvard and MIT faculty, staff, and students across the sciences. Specializing in experimental methods, exploratory data analysis, and generalized and multilevel regression modeling of empirical data in R and python.  
 
 ## Education
 **_Harvard University_**, Cambridge, MA, _May 2023_  
@@ -140,23 +140,60 @@ Advisee: Onyul Haque
 Collaborated with, supervised, and mentored a visiting undergraduate student (Onyul Hauqe) for two consecutive summers in the development, administration, analysis, and presentation of a new research project on intergroup attitude importance, culminating in a manuscript that has been submitted for peer-reviewed publication. Student also presented work at a national conference each summer.
 
 ## Skills
-**Computational Skills**  
-_Programming Languages:_ Advanced R and Python for statistical modeling and data visualization, Unix shell scripting, Markdown, Slurm (high-performance cluster computing).  
-_Computational Tools & Software:_ Posit (formerly RStudio), Jupyter notebooks, iPython, PsychoPy, Git, Atom, Qualtrics, Slurm.
-
-**Statistical Skills**  
-_Analyses:_ linear and generalized linear fixed-effects, mixed-effects, and additive modeling (incl. ordinal multilevel modeling) fitted using frequentist and Bayesian implementations; multivariate cluster analysis incl. hierarchical clustering (standard and bootstrapped), density-based clustering; dimensionality reduction (multidimensional scaling, principal components analysis); machine learning and classification analyses incl. support vector machine classification (with tuning, cross-validation).  
-
-**Neuroimaging Skills**  
-_Functional MRI Scanning:_ Scanner operation and safety training (Philips 3.0 T Achieva Intera, Siemens PRISMA 3T).  
-_Neuroimaging Analysis Tools:_ AFNI, SUMA, FSL, FreeSurfer, fMRIPrep, nilearn, PyMVPA.  
-_Neuroimaging Analysis Procedures:_ General linear modeling (subject- and group-level), whole-brain searchlight multivariate pattern analysis (MVPA), representational similarity analysis (RSA).
-
-**Other Skills**  
-_Language Skills:_ Fluent in Spanish.  
-_Musical Training:_ 25+ years of multi-instrumental training, songwriting, and performance experience.
-_Media Processing:_ Amateur audio editing, recording, and mixing (Logic Pro X), image editing (Photoshop, GIMP), video editing (DaVinci Resolve, Final Cut Express).  
-_Engineering:_ Electronics soldering, basic woodworking, amateur luthier.  
+**Computational Tools**  
+Advanced R and Python for statistical modeling and data visualization  
+Agentic AI programming workflows (via CLI and IDE)  
+IDEs including VS Code, RStudio, JupyterLab  
+Markdown  
+RMarkdown  
+Quarto  
+Git, GitHub  
+CLI, shell scripting  
+Cloud systems for high-performance computing (GCP, AWS)  
+HPC batching/parallelization (slurm, PBS)  
+fMRI analysis software (nilearn, AFNI, SUMA, FSL, Freesurfer, fMRIPrep)  
+  
+**Advanced Statistical Methods**  
+High-dimensional data analysis  
+Exploratory data analysis  
+Bayesian inference, modeling  
+Multivariate cluster analysis  
+Machine learning, classification  
+fMRI data analysis (incl. MVPA, RSA)  
+  
+**Complex Regression Modeling**  
+Generalized linear models  
+Multilevel models  
+Bayesian hierarchical models  
+Generalized additive models  
+Mixture models  
+Quantile regression  
+Robust, resistant regression  
+Polynomial regression  
+Regression with regularization  
+  
+**Research Methods**  
+Data visualization  
+Experimental design  
+Model interpretation  
+Multi-modal data collection  
+Data cleaning and harmonization  
+Protected data management (PHI)  
+Interdisciplinary collaboration  
+Research translation  
+Research-to-practice application  
+Scientific writing  
+Publication and peer review  
+Presentation to varied audiences  
+fMRI scanner operation and safety training (Philips 3.0 T Achieva Intera, Siemens PRISMA 3T)  
+Web scraping  
+  
+**Additional Skills**    
+Fluent in Spanish  
+25+ years of multi-instrument musical training, songwriting, and performance experience  
+Amateur audio editing, recording, and mixing (Logic Pro X), image editing (Photoshop, GIMP), video editing (DaVinci Resolve)  
+Rock climbing (5+ years), former competitive swimmer  
+Electronics soldering, basic woodworking  
 
 ## Research Experience
 **Data Management Expert, CAFE RCC for Health & Extreme Weather**  
@@ -210,17 +247,17 @@ _Lester B. Pearson United World College of the Pacific, Victoria, B.C., Canada, 
 Designed and implemented a month-long summer leadership program on social justice, global citizenship, environmental sustainability, and community-building for 100 high school students from 20+ countries, alongside 16 other facilitators and 8 program coordinators.
 
 ## References
-**Steven Worthington, Ph.D.** | [sworthington@iq.harvard.edu](mailto:sworthington@iq.harvard.edu)
+**Steven Worthington, Ph.D.** | sworthington [@] iq.harvard.edu  
 Director of Data Science Services, Institute for Quantitative Social Science, Harvard University, Cambridge, MA
 
-**Patrick Mair, Ph.D.** | [mair@fas.harvard.edu](mailto:mair@fas.harvard.edu)  
+**Patrick Mair, Ph.D.** | mair [@] fas.harvard.edu  
 Senior Lecturer in Statistics, Department of Psychology, Harvard University, Cambridge, MA
 
-**Mina Cikara, Ph.D.** | [mcikara@fas.harvard.edu](mailto:mcikara@fas.harvard.edu)  
+**Mina Cikara, Ph.D.** | mcikara [@] fas.harvard.edu  
 Professor, Department of Psychology, Harvard University, Cambridge, MA  
 
-**Joshua Greene, Ph.D.** | [jgreene@wjh.harvard.edu](mailto:jgreene@wjh.harvard.edu)  
+**Joshua Greene, Ph.D.** | jgreene [@] wjh.harvard.edu  
 Professor, Department of Psychology, Harvard University, Cambridge, MA
 
-**David J. M. Kraemer, Ph.D.** | [david.j.m.kraemer@dartmouth.edu](mailto:david.j.m.kraemer@dartmouth.edu)  
+**David J. M. Kraemer, Ph.D.** | david.j.m.kraemer [@] dartmouth.edu  
 Associate Professor, Department of Psychological and Brain Sciences; Chair, Cognitive Science Program, Dartmouth College, Hanover, NH  
