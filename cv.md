@@ -5,7 +5,6 @@ permalink: /cv/
 <div><a href="https://github.com/jcetron/jcetron.github.io/raw/master/_data/joshua_cetron_CV.pdf">Download PDF</a></div>
 
 # Joshua Satya Cetron, Ph.D. | _Curriculum Vitae_  
-jcetron [@] iq.harvard.edu  
   
 _Data scientist, quantitative social scientist, and research methodologist with a background in psychology, neuroscience, and multivariate statistics._
 
@@ -245,19 +244,3 @@ Directed the 2016 DOC First-Year Trips program, the largest College outdoor orie
 **Program Facilitator, Pearson Seminar on Youth Leadership**  
 _Lester B. Pearson United World College of the Pacific, Victoria, B.C., Canada, Summers 2010 - 2011_  
 Designed and implemented a month-long summer leadership program on social justice, global citizenship, environmental sustainability, and community-building for 100 high school students from 20+ countries, alongside 16 other facilitators and 8 program coordinators.
-
-## References
-**Steven Worthington, Ph.D.** | sworthington [@] iq.harvard.edu  
-Director of Data Science Services, Institute for Quantitative Social Science, Harvard University, Cambridge, MA
-
-**Patrick Mair, Ph.D.** | mair [@] fas.harvard.edu  
-Senior Lecturer in Statistics, Department of Psychology, Harvard University, Cambridge, MA
-
-**Mina Cikara, Ph.D.** | mcikara [@] fas.harvard.edu  
-Professor, Department of Psychology, Harvard University, Cambridge, MA  
-
-**Joshua Greene, Ph.D.** | jgreene [@] wjh.harvard.edu  
-Professor, Department of Psychology, Harvard University, Cambridge, MA
-
-**David J. M. Kraemer, Ph.D.** | david.j.m.kraemer [@] dartmouth.edu  
-Associate Professor, Department of Psychological and Brain Sciences; Chair, Cognitive Science Program, Dartmouth College, Hanover, NH  
